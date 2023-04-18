@@ -12,6 +12,7 @@ If you see an ❌ next to a version (eg: "1.19.4 ❌"), that means that the mod 
 * [Better Ping Display](https://www.curseforge.com/minecraft/mc-mods/better-ping-display-fabric) - 1.19.4 ❌
 * [Better Statistics Screen](https://modrinth.com/mod/better-stats) - 1.19.4 ✔
 * [Blanket](https://modrinth.com/mod/blanket) - 1.19.4 ❌
+  * [List of bugs that it fixes](https://github.com/BlanketMC/blanket-client-tweaks/blob/1.18/src/main/java/io/github/blanketmc/blanket/Config.java)
 * [Cloth API](https://www.curseforge.com/minecraft/mc-mods/cloth-api) - 1.19.4 ❌
 * [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config) - 1.19.4 ✔
 * [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity) - 1.19.4 ✔
