@@ -3,20 +3,21 @@ This is the most up-to-date list of the mods that I personally use while playing
 
 If you see an ❌ next to a version (eg: "1.19.4 ❌"), that means that the mod is not updated for that version (as far as I know). If there is a ✔, it is updated.
 
-# Downloads
+# Mods
 * ['Slight' Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) - 1.19.4 ❌
 * [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) - 1.19.4 ✔
 * [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-api) - 1.19.4 ✔
 * [ARRP](https://www.curseforge.com/minecraft/mc-mods/arrp) - 1.19.4 ✔
-* [Better Beds](https://modrinth.com/mod/better-beds/versions) - 1.19.4 ❌
 * [Better Ping Display](https://www.curseforge.com/minecraft/mc-mods/better-ping-display-fabric) - 1.19.4 ❌
 * [Better Statistics Screen](https://modrinth.com/mod/better-stats) - 1.19.4 ✔
 * [Blanket](https://modrinth.com/mod/blanket) - 1.19.4 ❌
   * [List of bugs that it fixes](https://github.com/BlanketMC/blanket-client-tweaks/blob/1.18/src/main/java/io/github/blanketmc/blanket/Config.java)
+* [Clear Skies](https://modrinth.com/mod/clear-skies) - 1.19.4 ✔
 * [Cloth API](https://www.curseforge.com/minecraft/mc-mods/cloth-api) - 1.19.4 ❌
 * [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config) - 1.19.4 ✔
 * [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity) - 1.19.4 ✔
 * [Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) - 1.19.4 ✔
+* [Enhanced Block Entities](https://modrinth.com/mod/ebe) - 1.19.4 ❌
 * [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) - 1.19.4 ✔
 * [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) - 1.19.4 ✔
 * [FiveOneFourOneEight](https://modrinth.com/mod/fiveonefouroneeight) - 1.19.4 ✔
