@@ -34,7 +34,7 @@ If you see an ❌ next to a version (eg: "1.19.4 ❌"), that means that the mod 
 * [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) - 1.19.4 ✔
 * [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud) - 1.19.4 ✔ **(CurseForge)**
 * [MixinTrace](https://modrinth.com/mod/mixintrace) - 1.19.4 ✔
-* [Mod Menu](https://modrinth.com/mod/modmenu) - 1.19.4 ✔
+* [Mod Menu](https://github.com/TerraformersMC/ModMenu) - 1.19.4 ✔
 * [More Chat History](https://modrinth.com/mod/morechathistory) - 1.19.4 ✔
 * [No Chat Reports](https://modrinth.com/mod/no-chat-reports) - 1.19.4 ✔
 * [No Telemetry](https://modrinth.com/mod/no-telemetry) - 1.19.4 ✔
