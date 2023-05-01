@@ -90,10 +90,14 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
   * **Performance mod**
 * [Sodium](https://modrinth.com/mod/sodium) - 1.19.4 ✔
   * **Performance mod**
+* [Sodium Occlusion Culling Fix](https://modrinth.com/mod/occlusion-culling-fix-sodium)
+  * **Quality-of-life mod**
 * [Starlight](https://modrinth.com/mod/starlight) - 1.19.4 ✔
   * **Performance mod**
 * [Technopig](https://modrinth.com/mod/technomodel) - 1.19.4 ✔
   * **Great mod**
+* [Unofficial Sodium Biome Blending Fix](https://modrinth.com/mod/unofficial-sodium-biome-blending-fix)
+  * **Quality-of-life mod**
 * [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) - 1.19.4 ✔
   * **Quality-of-life mod**
 
