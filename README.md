@@ -3,6 +3,8 @@ This is the most up-to-date list of the mods that I personally use while playing
 
 If you see an ❌ next to a version (eg: "1.19.4 ❌"), that means that the mod is not updated for that version (as far as I know). If there is a ✔, it is updated.
 
+I have listed required mods, meaning other mods that a mod will need for the game to start. Some of these mods will require Mod Menu to be configured. If you still can't gonfigure a mod after installing Mod Menu, install Cloth Config API.
+
 ## You must install [Quilt](https://quiltmc.org) to run these mods
 Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&t=47s)
 
