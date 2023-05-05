@@ -12,12 +12,13 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
 * ['Slight' Gui Modifications](https://modrinth.com/mod/slight-gui-modifications) - 1.19.4 ❌
   * **Quality-of-life mod**
   * Makes small changes to your GUI to make it look a little better
-  * **Requires Architectury API, ARRP, Cloth API, Cloth Config API & Fabric API/Quilted Fabric API**
+  * **Requires Architectury API, ARRP, Cloth API, Cloth Config API & Quilted Fabric API**
 * [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) - 1.19.4 ✔
   * **Quality-of-life mod**
   * Makes the second layer of a skin render in 3D
 * [Architectury API](https://modrinth.com/mod/architectury-api) - 1.19.4 ✔
   * **Dependency mod**
+  * **Requires Quilted Fabric API**
 * [ARRP](https://modrinth.com/mod/arrp) - 1.19.4 ✔
   * **Dependency mod**
 * [Better Ping Display](https://modrinth.com/mod/better-ping-display-fabric) - 1.19.4 ❌
