@@ -79,43 +79,69 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
   * **Required Sodium**
 * [Krypton](https://modrinth.com/mod/krypton) - 1.19.4 ✔
   * **Performance mod**
+  * Improves performance internally in [magical ways](https://github.com/astei/krypton/wiki)
 * [Language Reload](https://modrinth.com/mod/language-reload) - 1.19.4 ✔
   * **Quality-of-life mod**
+  * Adds a great-looking GUI for switching languages and makes switching them instantanious
+  * **Requires Quilted Fabric API**
 * [LazyDFU](https://modrinth.com/mod/lazydfu) - 1.19.3 ✔, **not necessary above 1.19.3**
   * **Performance mod**
+  * Makes Minecraft start faster by preventing some unnecessary parts of the game from being loaded until they ARE necessary
 * [Lithium](https://modrinth.com/mod/lithium) - 1.19.4 ✔
   * **Performance mod**
+  * Improves performance of features like mob AI, game physics, and more internal stuff without changing vanilla gameplay
 * [Logical Zoom](https://modrinth.com/mod/logical-zoom) - 1.19.4 ✔
   * **Quality-of-life mod**
+  * Adds OptiFine's zoom feature to the game without using OptiFine
+  * **Requires Quilted Fabric API**
 * [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib) - 1.19.4 ✔ **(CurseForge)**
+  * **Dependency mod**
+  * Makes other mods by [the author of this mod](https://github.com/maruohon) work
 * [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) - 1.19.4 ✔
   * **Performance mod**
+  * Fixes memory leaks
 * [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud) - 1.19.4 ✔ **(CurseForge)**
   * **Quality-of-life mod**
+  * Adds a mini F3 menu that you can add your own information to
+  * **Requires MaLiLib**
 * [MixinTrace](https://modrinth.com/mod/mixintrace) - 1.19.4 ✔
   * **Quality-of-life mod**
+  * Makes crash reports more verbose
 * [Mod Menu](https://github.com/TerraformersMC/ModMenu) - 1.19.4 ✔
   * **Quality-of-life mod**
+  * Adds an in-game list of every loaded mod and allows you to configure the settings of mods
 * [More Chat History](https://modrinth.com/mod/morechathistory) - 1.19.4 ✔
   * **Quality-of-life mod**
+  * Increases the maximum amount of chat messages you can see in your chat history from 100 to 16384
 * [No Chat Reports](https://modrinth.com/mod/no-chat-reports) - 1.19.4 ✔
   * **Quality-of-life mod**
+  * Removes signatures from your chat messages to make them unreportable and disables in-game telemetry (data collection)
 * [No Telemetry](https://modrinth.com/mod/no-telemetry) - 1.19.4 ✔
   * **Quality-of-life mod**
+  * If you don't want to use No Chat Reports, this mod disables telemetry without removing your chat signatures
 * [Quilted Fabric API/Quilt Standard Libraries](https://modrinth.com/mod/qsl) - 1.19.4 ✔
   * **Dependency mod**
+  * Makes most mods work
 * [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) - 1.19.4 ✔
   * **Quality-of-life mod**
+  * Reorganizes the Sodium mod's video settings menu
+  * **Requires Sodium**
 * [Replay Mod](https://www.replaymod.com/) - 1.19.4 ✔
   * **Quality-of-life mod**
+  * Allows for viewing of past in-game Minecraft sessions from a spectator POV and rendering of videos from this POV (very simplified explanation)
 * [Screenshot to Clipboard](https://modrinth.com/mod/screenshot-to-clipboard) - 1.19.4 ✔
   * **Quality-of-life mod**
+  * Copies screenshots you take to your computer's clipboard so you don't have to dig through your computer to find them every time
 * [Smooth Boot](https://modrinth.com/mod/smoothboot-fabric) - 1.19.4 ✔
   * **Performance mod**
+  * Reduces CPU usage while the game is loading and makes it load faster
 * [Sodium](https://modrinth.com/mod/sodium) - 1.19.4 ✔
   * **Performance mod**
+  * Improves your game's FPS by an order of magnitude
 * [Sodium Occlusion Culling Fix](https://modrinth.com/mod/occlusion-culling-fix-sodium)
   * **Quality-of-life mod**
+  * Fixes a bug that Sodium re-introduces which can make some chunks invisible under certain conditions
+  * **Requires Sodium**
 * [Starlight](https://modrinth.com/mod/starlight) - 1.19.4 ✔
   * **Performance mod**
 * [Technopig](https://modrinth.com/mod/technomodel) - 1.19.4 ✔
