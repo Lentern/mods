@@ -140,16 +140,21 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
   * Improves your game's FPS by an order of magnitude
 * [Sodium Occlusion Culling Fix](https://modrinth.com/mod/occlusion-culling-fix-sodium)
   * **Quality-of-life mod**
-  * Fixes a bug that Sodium re-introduces which can make some chunks invisible under certain conditions
+  * Fixes an old bug that Sodium re-introduces which can make some chunks invisible under certain conditions
   * **Requires Sodium**
 * [Starlight](https://modrinth.com/mod/starlight) - 1.19.4 ✔
   * **Performance mod**
+  * Improves Minecraft's lighting performance significantly
 * [Technopig](https://modrinth.com/mod/technomodel) - 1.19.4 ✔
   * **Great mod**
+  * Makes pigs named Technoblade wear a crown. Fly high
 * [Unofficial Sodium Biome Blending Fix](https://modrinth.com/mod/unofficial-sodium-biome-blending-fix)
   * **Quality-of-life mod**
-* [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) - 1.19.4 ✔
+  * Fixes a Sodium bug that applies biome blending to any block
+  * **Requires Sodium**
+* [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) **CurseForge** - 1.19.4 ✔
   * **Quality-of-life mod**
+  * Edit massive areas of terrain and make massive structures
 
 ## Different Types of Mods
 * Performance
