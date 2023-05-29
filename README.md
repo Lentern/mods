@@ -1,6 +1,10 @@
 # The Best Performance (and Quality-of-Life) Mods for Minecraft
 This is the most up-to-date list of the mods that I personally use while playing Minecraft. From tripling performance to revamped menus, these mods improve your gameplay experience without changing vanilla gameplay.
+
 If you see an ❌ next to a version (eg: "1.19.4 ❌"), that means that the mod is not updated for that version (as far as I know). If there is a ✔, it is updated.
+
+## Why can't I download these all in one ZIP file? Why do I have to download them all individually?
+Not every mod is legally allowed to be distributed in modpacks. Some mods' license agreements say you can't include their mod in a modpack without explicit permission, and that really isn't worth it here. Plus, mods get outdated quickly, and, unlike in a proper modpack, it's important to keep all of these mods updated. So, I don't want to make a legally questionable ZIP file full of mods that will be outdated the next day. Downloading each mod individually is the best way to have the best in-game experience.
 
 ## Notices
 * I have listed required mods, meaning I've only listed mods that another mod will ***need*** for the game to start
