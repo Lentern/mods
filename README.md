@@ -32,6 +32,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
   * Changes player list (tab list) to show ping numbers instead of ping bars
 * [Better Statistics Screen](https://modrinth.com/mod/better-stats) - 1.19.4 ✔
   * **Quality-of-life mod**
+  * Makes the in-game statistics screen [beautiful](https://www.youtube.com/watch?v=AaC8J0G238c)
 * [Blanket](https://modrinth.com/mod/blanket) - 1.19.4 ❌
   * **Quality-of-life/performance-ish mod**
   * Fixes some client-side bugs ([list of bugs that it fixes](https://github.com/BlanketMC/blanket-client-tweaks/blob/1.18/src/main/java/io/github/blanketmc/blanket/Config.java))
