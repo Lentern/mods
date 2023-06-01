@@ -112,7 +112,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
 * [MixinTrace](https://modrinth.com/mod/mixintrace) - 1.19.4 ✔
   * **Quality-of-life mod**
   * Makes crash reports more verbose
-* [Mod Menu](https://github.com/TerraformersMC/ModMenu) - 1.19.4 ✔
+* [Mod Menu](https://modrinth.com/mod/modmenu) - 1.19.4 ✔
   * **Quality-of-life mod**
   * Adds an in-game list of every loaded mod and allows you to configure the settings of mods
 * [More Chat History](https://modrinth.com/mod/morechathistory) - 1.19.4 ✔
