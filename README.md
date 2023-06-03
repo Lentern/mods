@@ -95,7 +95,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
 * [Lithium](https://modrinth.com/mod/lithium) - 1.19.4 ✔
   * **Performance mod**
   * Improves performance of features like mob AI, game physics, and more internal stuff without changing vanilla gameplay
-* [Logical Zoom](https://modrinth.com/mod/logical-zoom) - 1.19.4 ✔
+* [Logical Zoom](https://modrinth.com/mod/logical-zoom) & [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) - 1.19.4 ✔
   * **Quality-of-life mod**
   * Adds OptiFine's zoom feature to the game without using OptiFine
   * **Requires Quilted Fabric API**
