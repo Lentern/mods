@@ -81,7 +81,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
 * [Iris](https://modrinth.com/mod/iris) - 1.19.4 ✔
   * **Quality-of-life mod**
   * Adds support for shader packs, just like OptiFine
-  * **Required Sodium**
+  * **Requires Sodium**
 * [Krypton](https://modrinth.com/mod/krypton) - 1.19.4 ✔
   * **Performance mod**
   * Improves performance internally in [magical ways](https://github.com/astei/krypton/wiki)
