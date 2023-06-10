@@ -15,10 +15,6 @@ Not every mod is legally allowed to be distributed in modpacks. Some mods' licen
 Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&t=47s)
 
 # Mods
-* ['Slight' Gui Modifications](https://modrinth.com/mod/slight-gui-modifications) - 1.19.4 ❌ 1.20 ❌
-  * **Quality-of-life mod**
-  * Makes small changes to your GUI to make it look a little better
-  * **Requires Architectury API, ARRP, Cloth API, Cloth Config API & Quilted Fabric API**
 * [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) - 1.19.4 ✔ 1.20 ✔
   * **Quality-of-life mod**
   * Makes the second layer of a skin render in 3D
