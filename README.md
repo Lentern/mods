@@ -153,7 +153,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
   * **Quality-of-life mod**
   * Fixes a Sodium bug that applies biome blending to any block
   * **Requires Sodium**
-* [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) **CurseForge** - 1.19.4 ✔ 1.20 ❌
+* [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) - 1.19.4 ✔ 1.20 ❌ **(CurseForge)**
   * **Quality-of-life mod**
   * Edit massive areas of terrain and make massive structures
 
