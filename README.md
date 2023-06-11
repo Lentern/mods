@@ -36,8 +36,6 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
 * [Clear Skies](https://modrinth.com/mod/clear-skies) - 1.19.4 ✔ 1.20 ❌
   * **Quality-of-life mod**
   * Fixes the skies of Minecraft to remove [banding](https://frederikboving.com/what-is-banding-in-photography/) at the horizon
-* [Cloth API](https://www.curseforge.com/minecraft/mc-mods/cloth-api) - 1.19.4 ❌ 1.20 ❌ **(CurseForge)**
-  * **Dependency mod**
 * [Cloth Config API](https://modrinth.com/mod/cloth-config) - 1.19.4 ✔ 1.20 ✔
   * **Dependency mod**
   * Required for a lot of mods to be configured
@@ -45,7 +43,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
   * **Quality-of-life mod**
   * Adds support for [connected textures](https://external-preview.redd.it/do0Hmo_W7FIGVul6Fu9t9XoAC1345cghxoeqHzw5ffU.png?width=1080&crop=smart&auto=webp&v=enabled&p=e&s=eb504037c91a7fc94e56254a90e1145d6e4ae560) (like OptiFine)
   * **Requires Quilted Fabric API**
-* [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) - 1.19.4 ✔ 1.20 ❌
+* [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) - 1.19.4 ✔ 1.20 ✔
   * **Performance mod**
   * Reduces your game's frame rate while you aren't focused on the window to save power and increase the performance of the rest of your computer
   * **Requires Quilted Fabric API**
@@ -78,7 +76,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
   * **Quality-of-life mod**
   * Adds support for shader packs, just like OptiFine
   * **Requires Sodium**
-* [Krypton](https://modrinth.com/mod/krypton) - 1.19.4 ✔ 1.20 ❌
+* [Krypton](https://modrinth.com/mod/krypton) - 1.19.4 ✔ 1.20 ✔
   * **Performance mod**
   * Improves performance internally in [magical ways](https://github.com/astei/krypton/wiki)
 * [Language Reload](https://modrinth.com/mod/language-reload) - 1.19.4 ✔ 1.20 ✔
@@ -99,7 +97,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
 * [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib) - 1.19.4 ✔ 1.20 ❌ **(CurseForge)**
   * **Dependency mod**
   * Makes other mods by [the author of this mod](https://github.com/maruohon) work
-* [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) - 1.19.4 ✔ 1.20 ❌
+* [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) - 1.19.4 ✔ 1.20 ✔
   * **Performance mod**
   * Fixes memory leaks
 * [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud) - 1.19.4 ✔ 1.20 ❌ **(CurseForge)**
@@ -159,8 +157,8 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
   * **Quality-of-life mod**
   * Edit massive areas of terrain and make massive structures
 
-* 91% of these mods are updated to 1.19.4 (41/45)
-* 58% of these mods are updated to 1.20 (26/45)
+* 95% of these mods are updated to 1.19.4 (41/43)
+* 67% of these mods are updated to 1.20 (29/43)
 
 ## Different Types of Mods
 * Performance
