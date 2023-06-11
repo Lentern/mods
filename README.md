@@ -83,7 +83,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
   * Improves performance internally in [magical ways](https://github.com/astei/krypton/wiki)
 * [Language Reload](https://modrinth.com/mod/language-reload) - 1.19.4 ✔ 1.20 ✔
   * **Quality-of-life mod**
-  * Adds a great-looking GUI for switching languages and makes switching them instantanious
+  * Adds a great-looking GUI for switching languages and makes switching them instantaneous
   * **Requires Quilted Fabric API**
 * [LazyDFU](https://modrinth.com/mod/lazydfu) - 1.19.3 ✔ **(not necessary above 1.19.3)**
   * **Performance mod**
