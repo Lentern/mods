@@ -32,14 +32,18 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
 * [Blanket](https://modrinth.com/mod/blanket) - 1.19.4 ❌ 1.20 ❌
   * **Quality-of-life/performance-ish mod**
   * Fixes some client-side bugs ([list of bugs that it fixes](https://github.com/BlanketMC/blanket-client-tweaks/blob/1.18/src/main/java/io/github/blanketmc/blanket/Config.java))
-  * Requires 
+  * **Requires Quilted Fabric API**
+* [Capes](https://modrinth.com/mod/capes/versions) - 1.19.4 ✔ 1.20 ✔
+  * **Quality-of-life mod**
+  * Allows you to view your cape from mods like OptiFine
+  * **Requires Fabric Language Kotlin & Quilted Fabric API**
 * [Clear Skies](https://modrinth.com/mod/clear-skies) - 1.19.4 ✔ 1.20 ❌
   * **Quality-of-life mod**
   * Fixes the skies of Minecraft to remove [banding](https://frederikboving.com/what-is-banding-in-photography/) at the horizon
 * [Cloth Config API](https://modrinth.com/mod/cloth-config) - 1.19.4 ✔ 1.20 ✔
   * **Dependency mod**
   * Required for a lot of mods to be configured
-* [Continuity](https://modrinth.com/mod/continuity) - 1.19.4 ✔ 1.20 ❌
+* [Continuity](https://modrinth.com/mod/continuity) - 1.19.4 ✔ 1.20 ✔
   * **Quality-of-life mod**
   * Adds support for [connected textures](https://external-preview.redd.it/do0Hmo_W7FIGVul6Fu9t9XoAC1345cghxoeqHzw5ffU.png?width=1080&crop=smart&auto=webp&v=enabled&p=e&s=eb504037c91a7fc94e56254a90e1145d6e4ae560) (like OptiFine)
   * **Requires Quilted Fabric API**
@@ -55,6 +59,9 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
   * **Performance mod**
   * Makes the game not render entites you can't see to improve FPS
   * **Requires Quilted Fabric API**
+* [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) - 1.19.4 ✔ 1.20 ✔
+  * **Dependency mod**
+  * Adds support for Kotlin programming language for mods to use
 * [FerriteCore](https://modrinth.com/mod/ferrite-core) - 1.19.4 ✔ 1.20 ✔
   * **Performance mod**
   * Reduces the game's memory usage
@@ -64,7 +71,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
 * [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) - 1.19.4 ✔ 1.20 ✔
   * **Performance mod**
   * Makes the game's FPS higher
-* [In-Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher) - 1.19.4 ✔ 1.20 ❌
+* [In-Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher) - 1.19.4 ✔ 1.20 ✔
   * **Quality-of-life mod**
   * Allows you to switch between Minecraft account without restarting the game
   * **Requires Quilted Fabric API**
@@ -89,7 +96,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
 * [Lithium](https://modrinth.com/mod/lithium) - 1.19.4 ✔ 1.20 ✔
   * **Performance mod**
   * Improves performance of features like mob AI, game physics, and more internal stuff without changing vanilla gameplay
-* [Logical Zoom](https://modrinth.com/mod/logical-zoom) - 1.19.4 ✔ 1.20 ❌
+* [Logical Zoom](https://modrinth.com/mod/logical-zoom) - 1.19.4 ✔ 1.20 ✔
   * **Quality-of-life mod**
   * Adds OptiFine's zoom feature to the game without using OptiFine
   * [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) offers more control over the zoom function, like animations - 1.19.4 ✔ 1.20 ✔
@@ -133,7 +140,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
 * [Screenshot to Clipboard](https://modrinth.com/mod/screenshot-to-clipboard) - 1.19.4 ✔ 1.20 ✔
   * **Quality-of-life mod**
   * Copies screenshots you take to your computer's clipboard so you don't have to dig through your computer to find them every time
-* [Smooth Boot](https://modrinth.com/mod/smoothboot-fabric) - 1.19.4 ✔ 1.20 ❌
+* [Smooth Boot](https://modrinth.com/mod/smoothboot-fabric) - 1.19.3 ✔ **(not necessary above 1.19.3)**
   * **Performance mod**
   * Reduces CPU usage while the game is loading and makes it load faster
 * [Sodium](https://modrinth.com/mod/sodium) - 1.19.4 ✔ 1.20 ✔
@@ -149,7 +156,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
 * [Technopig](https://modrinth.com/mod/technomodel) - 1.19.4 ✔ 1.20 ✔
   * **Great mod**
   * Makes pigs named Technoblade wear a crown. Fly high
-* [Unofficial Sodium Biome Blending Fix](https://modrinth.com/mod/unofficial-sodium-biome-blending-fix) - 1.19.4 ✔ 1.20 ❌
+* [Unofficial Sodium Biome Blending Fix](https://modrinth.com/mod/unofficial-sodium-biome-blending-fix) - 1.19.4 ✔ 1.20 ✔
   * **Quality-of-life mod**
   * Fixes a Sodium bug that applies biome blending to any block
   * **Requires Sodium**
@@ -157,8 +164,8 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
   * **Quality-of-life mod**
   * Edit massive areas of terrain and make massive structures
 
-* 95% of these mods are updated to 1.19.4 (41/43)
-* 67% of these mods are updated to 1.20 (29/43)
+* 96% of these mods are updated to 1.19.4 (43/45)
+* 78% of these mods are updated to 1.20 (35/45)
 
 ## Different Types of Mods
 * Performance
