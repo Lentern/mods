@@ -65,7 +65,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
 * [FerriteCore](https://modrinth.com/mod/ferrite-core) - 1.19.4 ✔ 1.20 ✔
   * **Performance mod**
   * Reduces the game's memory usage
-* [FiveOneFourOneEight](https://modrinth.com/mod/fiveonefouroneeight) - 1.19.4 ✔ 1.20 ✔ (works on 1.20 by modifying `fabric_mod.json` within the mod JAR file, tutorial soon)
+* [FiveOneFourOneEight](https://modrinth.com/mod/fiveonefouroneeight) - 1.19.4 ✔ 1.20 ✔ ([1.20 temporary download here](https://github.com/Lentern/FiveOneFourOneEight/releases/tag/v1.0.1))
   * **Quality-of-life mod**
   * Unlocks the options file to allow for changing values outside normal limits in 1.19+ ([more info](https://youtu.be/iVYY3IrmR4M?t=187))
 * [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) - 1.19.4 ✔ 1.20 ✔
