@@ -18,11 +18,6 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
 * [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) - 1.19.4 ✔ 1.20 ✔
   * **Quality-of-life mod**
   * Makes the second layer of a skin render in 3D
-* [Architectury API](https://modrinth.com/mod/architectury-api) - 1.19.4 ✔ 1.20 ✔
-  * **Dependency mod**
-  * **Requires Quilted Fabric API**
-* [ARRP](https://modrinth.com/mod/arrp) - 1.19.4 ✔ 1.20 ❌
-  * **Dependency mod**
 * [Better Ping Display](https://modrinth.com/mod/better-ping-display-fabric) - 1.19.4 ✔ 1.20 ✔
   * **Quality-of-life mod**
   * Changes player list (tab list) to show ping numbers instead of ping bars
@@ -164,8 +159,8 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
   * **Quality-of-life mod**
   * Edit massive areas of terrain and make massive structures
 
-* 96% of these mods are updated to 1.19.4 (43/45)
-* 82% of these mods are updated to 1.20 (37/45)
+* 95% of these mods are updated to 1.19.4 (41/43)
+* 82% of these mods are updated to 1.20 (37/43)
 
 ## Different Types of Mods
 * Performance
