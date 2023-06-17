@@ -150,7 +150,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
   * **Quality-of-life mod**
   * Fixes an old bug that Sodium re-introduces which can make some chunks invisible under certain conditions
   * **Requires Sodium**
-* [Starlight](https://modrinth.com/mod/starlight) - 1.19.4 ✔ **(not necessary in 1.20 and above**
+* [Starlight](https://modrinth.com/mod/starlight) - 1.19.4 ✔ **(not necessary in 1.20 and above)**
   * **Performance mod**
   * Improves Minecraft's lighting performance significantly
 * [Technopig](https://modrinth.com/mod/technomodel) - 1.19.4 ✔ 1.20 ✔
