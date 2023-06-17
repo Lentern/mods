@@ -101,13 +101,13 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
   * Adds OptiFine's zoom feature to the game without using OptiFine
   * [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) offers more control over the zoom function, like animations - 1.19.4 ✔ 1.20 ✔
   * **Both require Quilted Fabric API**
-* [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib) - 1.19.4 ✔ 1.20 ❌ **(CurseForge)**
+* [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib) - 1.19.4 ✔ 1.20 ✔ **(CurseForge)**
   * **Dependency mod**
   * Makes other mods by [the author of this mod](https://github.com/maruohon) work
 * [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) - 1.19.4 ✔ 1.20 ✔
   * **Performance mod**
   * Fixes memory leaks
-* [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud) - 1.19.4 ✔ 1.20 ❌ **(CurseForge)**
+* [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud) - 1.19.4 ✔ 1.20 ✔ **(CurseForge)**
   * **Quality-of-life mod**
   * Adds a mini F3 menu that you can add your own information to
   * **Requires MaLiLib**
@@ -156,16 +156,16 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
 * [Technopig](https://modrinth.com/mod/technomodel) - 1.19.4 ✔ 1.20 ✔
   * **Great mod**
   * Makes pigs named Technoblade wear a crown. Fly high
-* [Unofficial Sodium Biome Blending Fix](https://modrinth.com/mod/unofficial-sodium-biome-blending-fix) - 1.19.4 ✔ 1.20 ✔
+* [Unofficial Sodium Biome Blending Fix](https://modrinth.com/mod/unofficial-sodium-biome-blending-fix) - 1.19.4 ✔ 1.20 ❌
   * **Quality-of-life mod**
   * Fixes a Sodium bug that applies biome blending to any block
   * **Requires Sodium**
-* [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) - 1.19.4 ✔ 1.20 ❌ **(CurseForge)**
+* [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) - 1.19.4 ✔ 1.20 ✔ **(CurseForge)**
   * **Quality-of-life mod**
   * Edit massive areas of terrain and make massive structures
 
 * 96% of these mods are updated to 1.19.4 (43/45)
-* 78% of these mods are updated to 1.20 (35/45)
+* 82% of these mods are updated to 1.20 (37/45)
 
 ## Different Types of Mods
 * Performance
