@@ -21,7 +21,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
 * [Better Ping Display](https://modrinth.com/mod/better-ping-display-fabric) - 1.19.4 ✔ 1.20.1 ✔
   * **Quality-of-life mod**
   * Changes player list (tab list) to show ping numbers instead of ping bars
-* [Better Statistics Screen](https://modrinth.com/mod/better-stats) - 1.19.4 ✔ 1.20.1 ❌
+* [Better Statistics Screen](https://modrinth.com/mod/better-stats) - 1.19.4 ✔ 1.20.1 ✔
   * **Quality-of-life mod**
   * Makes the in-game statistics screen [beautiful](https://www.youtube.com/watch?v=AaC8J0G238c)
 * [Blanket](https://modrinth.com/mod/blanket) - 1.19.4 ❌ 1.20.1 ❌
@@ -129,7 +129,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
   * **Quality-of-life mod**
   * Reorganizes the Sodium mod's video settings menu
   * **Requires Sodium**
-* [Replay Mod](https://www.replaymod.com/) - 1.19.4 ✔ 1.20.1 ❌
+* [Replay Mod](https://www.replaymod.com/) - 1.19.4 ✔ 1.20.1 ✔
   * **Quality-of-life mod**
   * Allows for viewing of past in-game Minecraft sessions from a spectator POV and rendering of videos from this POV (very simplified explanation)
 * [Screenshot to Clipboard](https://modrinth.com/mod/screenshot-to-clipboard) - 1.19.4 ✔ 1.20.1 ✔
@@ -160,7 +160,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
   * Edit massive areas of terrain and make massive structures
 
 * 95% of these mods are updated to 1.19.4 (41/43)
-* 82% of these mods are updated to 1.20.1 (37/43)
+* 90% of these mods are updated to 1.20.1 (39/43)
 
 ## Different Types of Mods
 * Performance
