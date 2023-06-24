@@ -94,7 +94,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
 * [Logical Zoom](https://modrinth.com/mod/logical-zoom) - 1.19.4 ✔ 1.20.1 ✔
   * **Quality-of-life mod**
   * Adds OptiFine's zoom feature to the game without using OptiFine
-  * [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) offers more control over the zoom function, like animations - 1.19.4 ✔ 1.20.1 ✔
+  * [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) offers more control over the zoom function, like animations. Note that it does not support Fabric, you must use Quilt - 1.19.4 ✔ 1.20.1 ✔
   * **Both require Quilted Fabric API**
 * [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib) - 1.19.4 ✔ 1.20.1 ✔ **(CurseForge)**
   * **Dependency mod**
@@ -125,6 +125,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
 * [Quilted Fabric API/Quilt Standard Libraries](https://modrinth.com/mod/qsl) - 1.19.4 ✔ 1.20.1 ✔
   * **Dependency mod**
   * Makes most mods work
+  * If using Fabric instead of Quilt, download [Fabric API](https://modrinth.com/mod/fabric-api) instead
 * [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) - 1.19.4 ✔ 1.20.1 ✔
   * **Quality-of-life mod**
   * Reorganizes the Sodium mod's video settings menu
