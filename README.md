@@ -46,7 +46,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
   * **Performance mod**
   * Reduces your game's frame rate while you aren't focused on the window to save power and increase the performance of the rest of your computer
   * **Requires Quilted Fabric API**
-* [Enhanced Block Entities](https://modrinth.com/mod/ebe) - 1.19.4 ❌ 1.20.1 ❌
+* [Enhanced Block Entities](https://modrinth.com/mod/ebe) - 1.19.4 ✔ 1.20.1 ✔
   * **Performance mod**
   * Changes blocks like chests and beds to use block models instead of entity models, which increases performance, but also allows for better custom textures and allows them to have smooth lighting
   * **Requires Quilted Fabric API**
@@ -160,8 +160,8 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
   * **Quality-of-life mod**
   * Edit massive areas of terrain and make massive structures
 
-* 95% of these mods are updated to 1.19.4 (41/43)
-* 90% of these mods are updated to 1.20.1 (39/43)
+* 98% of these mods are updated to 1.19.4 (42/43)
+* 93% of these mods are updated to 1.20.1 (40/43)
 
 ## Different Types of Mods
 * Performance
