@@ -96,13 +96,13 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
   * Adds OptiFine's zoom feature to the game without using OptiFine
   * [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) offers more control over the zoom function, like animations. Note that it does not support Fabric, you must use Quilt - 1.19.4 ✔ 1.20.1 ✔
   * **Both require Quilted Fabric API**
-* [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib) - 1.19.4 ✔ 1.20.1 ✔ **(CurseForge)**
+* [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib) - 1.19.4 ✔ 1.20.1 ✔
   * **Dependency mod**
   * Makes other mods by [the author of this mod](https://github.com/maruohon) work
 * [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) - 1.19.4 ✔ 1.20.1 ✔
   * **Performance mod**
   * Fixes memory leaks
-* [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud) - 1.19.4 ✔ 1.20.1 ✔ **(CurseForge)**
+* [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud) - 1.19.4 ✔ 1.20.1 ✔
   * **Quality-of-life mod**
   * Adds a mini F3 menu that you can add your own information to
   * **Requires MaLiLib**
@@ -156,7 +156,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
   * **Quality-of-life mod**
   * Fixes a Sodium bug that applies biome blending to any block
   * **Requires Sodium**
-* [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) - 1.19.4 ✔ 1.20.1 ✔ **(CurseForge)**
+* [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) - 1.19.4 ✔ 1.20.1 ✔
   * **Quality-of-life mod**
   * Edit massive areas of terrain and make massive structures
 
@@ -171,4 +171,4 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
 * Dependency
   * Dependency mods are mods that are really only used to make other mods work, like how most mods require Fabric API/Quilted Fabric API to run, even though the mod doesn't do anything to the game on its own
 
-### Note about CurseForge links: The website has been in a situation around mod re-uploads, and the website should be avoided when possible. Mods that are still only available on CurseForge now have been marked as so. You can learn more about the situation in [this video by TheMisterEpic](https://www.youtube.com/watch?v=f4Ka86KKka4).
+### Note about CurseForge links: Mod developers are beginning to move away from CurseForge due to past and current issues. When possible, I am using links to Modrinth, a more modern solution.
