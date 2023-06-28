@@ -118,9 +118,8 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
 * [No Chat Reports](https://modrinth.com/mod/no-chat-reports) - 1.19.4 ✔ 1.20.1 ✔
   * **Quality-of-life mod**
   * Removes signatures from your chat messages to make them unreportable and disables in-game telemetry (data collection)
-* [No Telemetry](https://modrinth.com/mod/no-telemetry) - 1.19.4 ✔ 1.20.1 ✔
+* [No Telemetry](https://modrinth.com/mod/no-telemetry) - 1.19.4 ✔ 1.20.1 ✔ **(not necessary if using No Chat Reports)**
   * **Quality-of-life mod**
-  * **UNNECESSARY IF USING NO CHAT REPORTS MOD**
   * If you don't want to use No Chat Reports, this mod disables telemetry without removing your chat signatures
 * [Quilted Fabric API/Quilt Standard Libraries](https://modrinth.com/mod/qsl) - 1.19.4 ✔ 1.20.1 ✔
   * **Dependency mod**
