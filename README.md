@@ -151,7 +151,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
 * [Technopig](https://modrinth.com/mod/technomodel) - 1.19.4 ✔ 1.20.1 ✔
   * **Great mod**
   * Makes pigs named Technoblade wear a crown. Fly high
-* [Unofficial Sodium Biome Blending Fix](https://modrinth.com/mod/unofficial-sodium-biome-blending-fix) - 1.19.4 ✔ 1.20.1 ❌
+* [Unofficial Sodium Biome Blending Fix](https://modrinth.com/mod/unofficial-sodium-biome-blending-fix) - 1.19.4 ✔ 1.20.1 ❌ **(not necessary in Sodium 0.5 and above)**
   * **Quality-of-life mod**
   * Fixes a Sodium bug that applies biome blending to any block
   * **Requires Sodium**
