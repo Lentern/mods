@@ -141,7 +141,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
 * [Sodium](https://modrinth.com/mod/sodium) - 1.19.4 ✔ 1.20.1 ✔
   * **Performance mod**
   * Improves your game's FPS by an order of magnitude
-* [Sodium/Rubidium Occlusion Culling Fix](https://modrinth.com/mod/occlusion-culling-fix-sodium) - 1.19.4 ✔ 1.20.1 ✔
+* [Sodium/Rubidium Occlusion Culling Fix](https://modrinth.com/mod/occlusion-culling-fix-sodium) - 1.19.4 ✔ 1.20.1 ✔ **(not necessary in Sodium 0.5 and above)**
   * **Quality-of-life mod**
   * Fixes an old bug that Sodium re-introduces which can make some chunks invisible under certain conditions
   * **Requires Sodium**
