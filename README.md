@@ -24,7 +24,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
 * [Better Statistics Screen](https://modrinth.com/mod/better-stats) - 1.19.4 ✔ 1.20.1 ✔
   * **Quality-of-life mod**
   * Makes the in-game statistics screen [beautiful](https://www.youtube.com/watch?v=AaC8J0G238c)
-* [Blanket](https://modrinth.com/mod/blanket) - 1.19.4 ❌ 1.20.1 ❌
+* [Blanket](https://modrinth.com/mod/blanket) - 1.19.4 ❌ 1.20.1 ✔
   * **Quality-of-life/performance-ish mod**
   * Fixes some client-side bugs ([list of bugs that it fixes](https://github.com/BlanketMC/blanket-client-tweaks/blob/1.18/src/main/java/io/github/blanketmc/blanket/Config.java))
   * **Requires Quilted Fabric API**
@@ -141,7 +141,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
 * [Sodium](https://modrinth.com/mod/sodium) - 1.19.4 ✔ 1.20.1 ✔
   * **Performance mod**
   * Improves your game's FPS by an order of magnitude
-* [Sodium/Rubidium Occlusion Culling Fix](https://modrinth.com/mod/occlusion-culling-fix-sodium) - 1.19.4 ✔ 1.20.1 ✔
+* [Sodium/Rubidium Occlusion Culling Fix](https://modrinth.com/mod/occlusion-culling-fix-sodium) - 1.19.4 ✔ 1.20.1 ✔ **(not necessary in Sodium 0.5 and above)**
   * **Quality-of-life mod**
   * Fixes an old bug that Sodium re-introduces which can make some chunks invisible under certain conditions
   * **Requires Sodium**
@@ -160,7 +160,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
   * Edit massive areas of terrain and make massive structures
 
 * 98% of these mods are updated to 1.19.4 (42/43)
-* 93% of these mods are updated to 1.20.1 (40/43)
+* 93% of these mods are updated to 1.20.1 (41/43)
 
 ## Different Types of Mods
 * Performance
