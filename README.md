@@ -46,7 +46,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
   * **Performance mod**
   * Reduces your game's frame rate while you aren't focused on the window to save power and increase the performance of the rest of your computer
   * **Requires Quilted Fabric API**
-* [Enhanced Block Entities](https://modrinth.com/mod/ebe) - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ❌
+* [Enhanced Block Entities](https://modrinth.com/mod/ebe) - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ✔
   * **Performance mod**
   * Changes blocks like chests and beds to use block models instead of entity models, which increases performance, but also allows for better custom textures and allows them to have smooth lighting
   * **Requires Quilted Fabric API**
@@ -129,7 +129,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
   * **Quality-of-life mod**
   * Reorganizes the Sodium mod's video settings menu
   * **Requires Sodium**
-* [Replay Mod](https://www.replaymod.com/) - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ❌
+* [Replay Mod](https://www.replaymod.com/) - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ✔
   * **Quality-of-life mod**
   * Allows for viewing of past in-game Minecraft sessions from a spectator POV and rendering of videos from this POV (very simplified explanation)
 * [Screenshot to Clipboard](https://modrinth.com/mod/screenshot-to-clipboard) - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ✔
