@@ -10,7 +10,8 @@ Not every mod is legally allowed to be distributed in modpacks. Some mods' licen
 * I have listed required mods, meaning I've only listed mods that another mod will ***need*** for the game to start
 * Some of these mods will require Mod Menu to be configured. If you still can't configure a mod after installing Mod Menu, install Cloth Config API
 * If you're using Sodium and you get a crash (or another weird bug) that is caused by another mod, install Indium and that will hopefully fix it (ex. Continuity uses the Fabric Rendering API, so it requires Indium to work with Sodium)
-* If you see a * next to a checkmark for a version, that means the mod works but is broken
+* If you see a * next to a checkmark for a version, that means the mod is usable but may be a little bit broken
+* Some mods will work on new versions, but it won't tell you on the download page. Refer to my guides below to see if mods are updated
 
 ## You must install [Quilt](https://quiltmc.org) to run these mods
 Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&t=47s)
@@ -19,21 +20,21 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
 * [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ✔ 1.20.3 ✔* 1.20.4 ✔*
   * **Quality-of-life mod**
   * Makes the second layer of a skin render in 3D
-* [Better Ping Display](https://modrinth.com/mod/better-ping-display-fabric) - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ✔ 1.20.3 ❌* 1.20.4 ❌*
+* [Better Ping Display](https://modrinth.com/mod/better-ping-display-fabric) - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ✔ 1.20.3 ❌ 1.20.4 ❌
   * **Quality-of-life mod**
   * Changes player list (tab list) to show ping numbers instead of ping bars
 * [Better Statistics Screen](https://modrinth.com/mod/better-stats) - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ✔ 1.20.3 ✔ 1.20.4 ✔
   * **Quality-of-life mod**
   * Makes the in-game statistics screen [beautiful](https://www.youtube.com/watch?v=AaC8J0G238c)
-* [Blanket](https://modrinth.com/mod/blanket) - 1.19.4 ❌ 1.20.1 ✔ 1.20.2 ❌ 1.20.3 ❌ 1.20.4 ❌
+* [Blanket](https://modrinth.com/mod/blanket) - 1.19.4 ✔* 1.20.1 ✔ 1.20.2 ❌ 1.20.3 ❌ 1.20.4 ❌
   * **Quality-of-life/performance-ish mod**
   * Fixes some client-side bugs ([list of bugs that it fixes](https://github.com/BlanketMC/blanket-client-tweaks/blob/1.18/src/main/java/io/github/blanketmc/blanket/Config.java))
   * **Requires Quilted Fabric API**
-* [Capes](https://modrinth.com/mod/capes/versions) - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ✔ 1.20.3 ❌ 1.20.4 ❌
+* [Capes](https://modrinth.com/mod/capes/versions) - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ✔ 1.20.3 ✔ 1.20.4 ✔
   * **Quality-of-life mod**
   * Allows you to view your cape from mods like OptiFine
   * **Requires Fabric Language Kotlin & Quilted Fabric API**
-* [Clear Skies](https://modrinth.com/mod/clear-skies) - 1.19.4 ✔ 1.20.1 ❌ 1.20.2 ❌ 1.20.3 ❌ 1.20.4 ❌
+* [Clear Skies](https://modrinth.com/mod/clear-skies) - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ✔ 1.20.3 ✔ 1.20.4 ✔
   * **Quality-of-life mod**
   * Fixes the skies of Minecraft to remove [banding](https://frederikboving.com/what-is-banding-in-photography/) at the horizon
 * [Cloth Config API](https://modrinth.com/mod/cloth-config) - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ✔ 1.20.3 ✔ 1.20.4 ✔
@@ -47,11 +48,11 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
   * **Performance mod**
   * Reduces your game's frame rate while you aren't focused on the window to save power and increase the performance of the rest of your computer
   * **Requires Quilted Fabric API**
-* [Enhanced Block Entities](https://modrinth.com/mod/ebe) - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ✔ 1.20.3 ❌ 1.20.4 ❌
+* [Enhanced Block Entities](https://modrinth.com/mod/ebe) - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ✔ 1.20.3 ✔ 1.20.4 ✔
   * **Performance mod**
   * Changes blocks like chests and beds to use block models instead of entity models, which increases performance, but also allows for better custom textures and allows them to have smooth lighting
   * **Requires Quilted Fabric API**
-* [Entity Culling](https://modrinth.com/mod/entityculling) - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ✔ 1.20.3 ❌ 1.20.4 ✔
+* [Entity Culling](https://modrinth.com/mod/entityculling) - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ✔ 1.20.3 ✔ 1.20.4 ✔
   * **Performance mod**
   * Makes the game not render entites you can't see to improve FPS
   * **Requires Quilted Fabric API**
@@ -79,7 +80,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
   * **Quality-of-life mod**
   * Adds support for shader packs, just like OptiFine
   * **Requires Sodium**
-* [Krypton](https://modrinth.com/mod/krypton) - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ✔ 1.20.3 ❌ 1.20.4 ❌
+* [Krypton](https://modrinth.com/mod/krypton) - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ✔ 1.20.3 ✔ 1.20.4 ✔
   * **Performance mod**
   * Improves performance internally in [magical ways](https://github.com/astei/krypton/wiki)
 * [Language Reload](https://modrinth.com/mod/language-reload) - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ✔ 1.20.3 ✔ 1.20.4 ✔
@@ -92,18 +93,18 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
 * [Lithium](https://modrinth.com/mod/lithium) - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ✔ 1.20.3 ✔ 1.20.4 ✔
   * **Performance mod**
   * Improves performance of features like mob AI, game physics, and more internal stuff without changing vanilla gameplay
-* [Logical Zoom](https://modrinth.com/mod/logical-zoom) - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ✔ 1.20.3 ❌ 1.20.4 ✔
+* [Logical Zoom](https://modrinth.com/mod/logical-zoom) - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ✔ 1.20.3 ✔ 1.20.4 ✔
   * **Quality-of-life mod**
   * Adds OptiFine's zoom feature to the game without using OptiFine
   * [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) offers more control over the zoom function, like animations. Note that it does not support Fabric, you must use Quilt - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ❌ 1.20.3 ❌ 1.20.4 ❌
   * **Both require Quilted Fabric API**
-* [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib) - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ✔ 1.20.3 ❌ 1.20.4 ✔
+* [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib) - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ✔ 1.20.3 ✔ 1.20.4 ✔
   * **Dependency mod**
   * Makes other mods by [the author of this mod](https://github.com/maruohon) work
 * [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ❌ 1.20.3 ❌ 1.20.4 ❌
   * **Performance mod**
   * Fixes memory leaks
-* [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud) - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ✔ 1.20.3 ❌ 1.20.4 ✔
+* [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud) - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ✔ 1.20.3 ✔ 1.20.4 ✔
   * **Quality-of-life mod**
   * Adds a mini F3 menu that you can add your own information to
   * **Requires MaLiLib**
@@ -149,14 +150,14 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&
 * [Starlight](https://modrinth.com/mod/starlight) - 1.19.4 ✔ **(not necessary in Sodium 0.5 and above)**
   * **Performance mod**
   * Improves Minecraft's lighting performance significantly
-* [Technopig](https://modrinth.com/mod/technomodel) - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ❌ 1.20.3 ❌ 1.20.4 ❌
+* [Technopig](https://modrinth.com/mod/technomodel) - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ✔ 1.20.3 ✔ 1.20.4 ✔
   * **Great mod**
   * Makes pigs named Technoblade wear a crown. Fly high
-* [Unofficial Sodium Biome Blending Fix](https://modrinth.com/mod/unofficial-sodium-biome-blending-fix) - 1.19.4 ✔ 1.20.1 ❌ **(not necessary in Sodium 0.5 and above)**
+* [Unofficial Sodium Biome Blending Fix](https://modrinth.com/mod/unofficial-sodium-biome-blending-fix) - 1.19.4 ✔ 1.20.1 ✔ **(not necessary in Sodium 0.5 and above)**
   * **Quality-of-life mod**
   * Fixes a Sodium bug that applies biome blending to any block
   * **Requires Sodium**
-* [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ✔ 1.20.3 ❌ 1.20.4 ✔
+* [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ✔ 1.20.3 ✔ 1.20.4 ✔
   * **Quality-of-life mod**
   * Edit massive areas of terrain and make massive structures
 
