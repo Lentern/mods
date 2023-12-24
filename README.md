@@ -14,7 +14,7 @@ Not every mod is legally allowed to be distributed in modpacks. Some mods' licen
 * Some mods will work on new versions, but it won't tell you on the download page. Refer to my guides below to see if mods are updated
 
 ## You must install [Quilt](https://quiltmc.org) to run these mods (If you have any issues at all with Quilt, use [Fabric](https://fabricmc.net) instead. It is basically the same)
-Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&t=47s)
+Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=O7V7jBo5-6k&t=26s)
 
 # Mods
 * [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ✔ 1.20.3 ✔* 1.20.4 ✔*
