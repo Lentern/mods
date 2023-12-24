@@ -13,7 +13,7 @@ Not every mod is legally allowed to be distributed in modpacks. Some mods' licen
 * If you see a * next to a checkmark for a version, that means the mod is usable but may be a little bit broken
 * Some mods will work on new versions, but it won't tell you on the download page. Refer to my guides below to see if mods are updated
 
-## You must install [Quilt](https://quiltmc.org) to run these mods
+## You must install [Quilt](https://quiltmc.org) to run these mods (If you have any issues at all with Quilt, use [Fabric](https://fabricmc.net) instead. It is basically the same)
 Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=6cbYLCkbtYY&t=47s)
 
 # Mods
