@@ -17,10 +17,10 @@ Not every mod is legally allowed to be distributed in modpacks. Some mods' licen
 Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=O7V7jBo5-6k&t=26s)
 
 # Mods
-* [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ✔ 1.20.3 ✔* 1.20.4 ✔*
+* [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ✔ 1.20.3 ✔* 1.20.4 ✔
   * **Quality-of-life mod**
   * Makes the second layer of a skin render in 3D
-* [Better Ping Display](https://modrinth.com/mod/better-ping-display-fabric) - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ✔ 1.20.3 ❌ 1.20.4 ❌
+* [Better Ping Display](https://modrinth.com/mod/better-ping-display-fabric) - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ✔ 1.20.3 ❌ 1.20.4 ✔
   * **Quality-of-life mod**
   * Changes player list (tab list) to show ping numbers instead of ping bars
 * [Better Statistics Screen](https://modrinth.com/mod/better-stats) - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ✔ 1.20.3 ✔ 1.20.4 ✔
@@ -101,7 +101,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=O7V7jBo5-6k&
 * [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib) - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ✔ 1.20.3 ✔ 1.20.4 ✔
   * **Dependency mod**
   * Makes other mods by [the author of this mod](https://github.com/maruohon) work
-* [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ❌ 1.20.3 ❌ 1.20.4 ❌
+* [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ✔ 1.20.3 ✔ 1.20.4 ✔
   * **Performance mod**
   * Fixes memory leaks
 * [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud) - 1.19.4 ✔ 1.20.1 ✔ 1.20.2 ✔ 1.20.3 ✔ 1.20.4 ✔
