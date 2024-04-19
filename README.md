@@ -96,7 +96,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=O7V7jBo5-6k&
 * [Logical Zoom](https://modrinth.com/mod/logical-zoom) - 1.19.4 ✔ 1.20.1 ✔ 1.20.4 ✔
   * **Quality-of-life mod**
   * Adds OptiFine's zoom feature to the game without using OptiFine
-  * [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) offers more control over the zoom function, like animations. Note that it does not support Fabric, you must use Quilt - 1.19.4 ✔ 1.20.1 ✔ 1.20.4 ❌
+  * [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) offers more control over the zoom function, like animations. Note that it does not support Fabric, you must use Quilt - 1.19.4 ✔ 1.20.1 ✔ 1.20.4 ✔
   * **Both require Quilted Fabric API**
 * [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib) - 1.19.4 ✔ 1.20.1 ✔ 1.20.4 ✔
   * **Dependency mod**
@@ -123,7 +123,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=O7V7jBo5-6k&
 * [No Telemetry](https://modrinth.com/mod/no-telemetry) - 1.19.4 ✔ 1.20.1 ✔ 1.20.4 ✔ **(not necessary if using No Chat Reports)**
   * **Quality-of-life mod**
   * If you don't want to use No Chat Reports, this mod disables telemetry without removing your chat signatures
-* [Quilted Fabric API/Quilt Standard Libraries](https://modrinth.com/mod/qsl) - 1.19.4 ✔ 1.20.1 ✔ 1.20.4 ❌
+* [Quilted Fabric API/Quilt Standard Libraries](https://modrinth.com/mod/qsl) - 1.19.4 ✔ 1.20.1 ✔ 1.20.4 ✔
   * **Dependency mod**
   * Makes most mods work
   * **If this mod isn't updated, or you're using Fabric instead of Quilt, download [Fabric API](https://modrinth.com/mod/fabric-api) instead**
