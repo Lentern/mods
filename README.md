@@ -20,7 +20,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=O7V7jBo5-6k&
 * [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) - 1.19.4 ✔ 1.20.6 ✔
   * **Quality-of-life mod**
   * Makes the second layer of a skin render in 3D
-* [Better Ping Display](https://modrinth.com/mod/better-ping-display-fabric) - 1.19.4 ✔ 1.20.6 ❌
+* [Better Ping Display](https://modrinth.com/mod/better-ping-display-fabric) - 1.19.4 ✔ 1.20.6 ✔
   * **Quality-of-life mod**
   * Changes player list (tab list) to show ping numbers instead of ping bars
 * [Better Statistics Screen](https://modrinth.com/mod/better-stats) - 1.19.4 ✔ 1.20.6 ✔
@@ -83,7 +83,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=O7V7jBo5-6k&
 * [Krypton](https://modrinth.com/mod/krypton) - 1.19.4 ✔ 1.20.6 ✔
   * **Performance mod**
   * Improves performance internally in [magical ways](https://github.com/astei/krypton/wiki)
-* [Language Reload](https://modrinth.com/mod/language-reload) - 1.19.4 ✔ 1.20.6 ❌
+* [Language Reload](https://modrinth.com/mod/language-reload) - 1.19.4 ✔ 1.20.6 ✔
   * **Quality-of-life mod**
   * Adds a great-looking GUI for switching languages and makes switching them instantaneous
   * **Requires Quilted Fabric API**
@@ -96,15 +96,15 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=O7V7jBo5-6k&
 * [Logical Zoom](https://modrinth.com/mod/logical-zoom) - 1.19.4 ✔ 1.20.6 ✔
   * **Quality-of-life mod**
   * Adds OptiFine's zoom feature to the game without using OptiFine
-  * [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) offers more control over the zoom function, like animations. Note that it does not support Fabric, you must use Quilt - 1.19.4 ✔ 1.20.6 ❌
+  * [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) offers more control over the zoom function, like animations. Note that it does not support Fabric, you must use Quilt - 1.19.4 ✔ 1.20.6 ✔
   * **Both require Quilted Fabric API**
-* [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib) - 1.19.4 ✔ 1.20.6 ❌
+* [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib) - 1.19.4 ✔ 1.20.6 ✔
   * **Dependency mod**
   * Makes other mods by [the author of this mod](https://github.com/maruohon) work
 * [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) - 1.19.4 ✔ 1.20.6 ✔
   * **Performance mod**
   * Fixes memory leaks
-* [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud) - 1.19.4 ✔ 1.20.6 ❌
+* [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud) - 1.19.4 ✔ 1.20.6 ✔
   * **Quality-of-life mod**
   * Adds a mini F3 menu that you can add your own information to
   * **Requires MaLiLib**
@@ -123,7 +123,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=O7V7jBo5-6k&
 * [No Telemetry](https://modrinth.com/mod/no-telemetry) - 1.19.4 ✔ 1.20.6 ✔ **(not necessary if using No Chat Reports)**
   * **Quality-of-life mod**
   * If you don't want to use No Chat Reports, this mod disables telemetry without removing your chat signatures
-* [Quilted Fabric API/Quilt Standard Libraries](https://modrinth.com/mod/qsl) - 1.19.4 ✔ 1.20.6 ❌
+* [Quilted Fabric API/Quilt Standard Libraries](https://modrinth.com/mod/qsl) - 1.19.4 ✔ 1.20.6 ✔
   * **Dependency mod**
   * Makes most mods work
   * **If this mod isn't updated, or you're using Fabric instead of Quilt, download [Fabric API](https://modrinth.com/mod/fabric-api) instead**
@@ -131,7 +131,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=O7V7jBo5-6k&
   * **Quality-of-life mod**
   * Reorganizes the Sodium mod's video settings menu
   * **Requires Sodium**
-* [Replay Mod](https://www.replaymod.com/) - 1.19.4 ✔ 1.20.6 ❌
+* [Replay Mod](https://www.replaymod.com/) - 1.19.4 ✔ 1.20.6 ✔
   * **Quality-of-life mod**
   * Allows for viewing of past in-game Minecraft sessions from a spectator POV and rendering of videos from this POV (very simplified explanation)
 * [Screenshot to Clipboard](https://modrinth.com/mod/screenshot-to-clipboard) - 1.19.4 ✔ 1.20.6 ✔
