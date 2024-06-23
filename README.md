@@ -48,7 +48,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=O7V7jBo5-6k&
   * **Performance mod**
   * Reduces your game's frame rate while you aren't focused on the window to save power and increase the performance of the rest of your computer
   * **Requires Quilted Fabric API**
-* [Enhanced Block Entities](https://modrinth.com/mod/ebe) - 1.19.4 ✔ 1.20.6 ❌
+* [Enhanced Block Entities](https://modrinth.com/mod/ebe) - 1.19.4 ✔ 1.20.6 ✔
   * **Performance mod**
   * Changes blocks like chests and beds to use block models instead of entity models, which increases performance, but also allows for better custom textures and allows them to have smooth lighting
   * **Requires Quilted Fabric API**
