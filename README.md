@@ -118,7 +118,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=O7V7jBo5-6k&
 * [No Chat Reports](https://modrinth.com/mod/no-chat-reports) - 1.20.6 ✔ 1.21.4 ✔ 1.21.5 ✔
   * **Quality-of-life mod**
   * Removes signatures from your chat messages to make them unreportable and disables in-game telemetry (data collection)
-* [Nvidum](https://modrinth.com/mod/nvidium) - 1.20.6 ✔ 1.21.4 ❌ 1.21.5 ❌
+* [Nvidum](https://modrinth.com/mod/nvidium) - 1.20.6 ✔ 1.21.4 ❌ 1.21.5 ❌ ([unofficial 1.21.5 version available here](https://github.com/drouarb/nvidium/releases)]
   * **Performance mod**
   * Uses "NVIDIA OpenGL extensions" to drastically increase the performance of the game. **Only works on NVIDIA 16xx, 20xx series and higher GPUs, the mod will auto-disable if you don't have the right GPU**
   * **Requires Sodium**
