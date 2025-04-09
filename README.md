@@ -135,7 +135,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=O7V7jBo5-6k&
 * [Sodium](https://modrinth.com/mod/sodium) - 1.20.6 ✔ 1.21.4 ✔ 1.21.5 ✔
   * **Performance mod**
   * Improves your game's FPS by an order of magnitude
-* [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) - 1.20.6 ✔ 1.21.4 ✔ 1.21.5 ❌
+* [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) - 1.20.6 ✔ 1.21.4 ✔ 1.21.5 ✔
   * **Quality-of-life mod**
   * Edit massive areas of terrain and make massive structures
 * [Zoomify](https://modrinth.com/mod/zoomify) - 1.20.6 ✔ 1.21.4 ✔ 1.21.5 ✔
