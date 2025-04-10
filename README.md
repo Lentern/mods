@@ -129,7 +129,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=O7V7jBo5-6k&
 * [Replay Mod](https://www.replaymod.com/) - 1.20.6 ✔ 1.21.4 ✔ 1.21.5 ❌
   * **Quality-of-life mod**
   * Allows for viewing of past in-game Minecraft sessions from a spectator POV and rendering of videos from this POV (very simplified explanation)
-* [Screenshot to Clipboard](https://modrinth.com/mod/screenshot-to-clipboard) - 1.20.6 ✔ 1.21.4 ✔ 1.21.5 ✔
+* [Screenshot to Clipboard](https://modrinth.com/mod/screenshot-to-clipboard) - 1.20.6 ✔ 1.21.4 ✔ 1.21.5 ❌
   * **Quality-of-life mod**
   * Copies screenshots you take to your computer's clipboard so you don't have to dig through your computer to find them every time
 * [Sodium](https://modrinth.com/mod/sodium) - 1.20.6 ✔ 1.21.4 ✔ 1.21.5 ✔
