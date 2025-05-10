@@ -3,25 +3,28 @@ This is the most up-to-date list of the mods that I personally use while playing
 
 If you see an ❌ next to a version (eg: "1.21.5 ❌"), that means that the mod is not updated for that version (as far as I know). If there is a ✔, it is updated. Sometimes, mods work for new versions but don't say it on the Modrinth page. If so, check my list to see if I tested it.
 
-## Why can't I download these all in one folder? Why do I have to download them all individually?
-Not every mod is legally allowed to be distributed in modpacks. Some mods' license agreements say you can't include their mod in a modpack without explicit permission, and that really isn't worth it here. Plus, mods get outdated quickly, and, unlike in a proper modpack, it's important to keep all of these mods updated. So, I don't want to make a legally questionable ZIP file full of mods that will be outdated the next day. Downloading each mod individually is the best way to have the best in-game experience.
-
-## Notices and Resources
-* Want my mod configs? [Here you go](https://drive.google.com/file/d/1amMFKcRSWMBUf3ZmyKpcby5JMFJUhL8b/view)
-* I have listed required mods, meaning I've only listed mods that another mod will ***need*** for the game to start
-* If you are using Sodium and you get a crash or weird bug that is caused by another mod, install Indium and that should hopefully fix it
-* If you see a * next to a checkmark for a version, that means the mod is usable but may be a little bit broken
-* Some mods will work on new versions, but won't necessarily tell you on the download page yet. Refer to my guides below to see if mods are updated
-* If you get a crash any time you load a world or join a server, remove the Chat Patches mod. If that fixes it, add the mod back and then delete the file "chatlog.json" file in *.minecraft\logs*
+Want my mod configs? [Here you go](https://drive.google.com/file/d/1amMFKcRSWMBUf3ZmyKpcby5JMFJUhL8b/view)
 
 ## You must install [Fabric](https://fabricmc.net) to run these mods
 Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=O7V7jBo5-6k&t=26s).
+
+# FAQ
+### Why can't I download these all in one folder? Why do I have to download them all individually?
+* Not every mod is legally allowed to be distributed in modpacks. Some mods' license agreements say you can't include their mod in a modpack without explicit permission, and meticulously creating agreements really isn't worth it here. Plus, mods get outdated quickly, and, unlike in a standard modpack, it's important to keep all of these mods updated. So, I don't want to make a legally questionable ZIP file full of mods that will be outdated by the next day. Downloading each mod individually is the best way to have the best in-game experience.
+### Will you make a Forge/NeoForge version?
+* No. This isn't a personal thing, I just have no interest.
+### Is this mod updated for the newest version?
+* Some mods will work on new versions, but won't necessarily tell you on the download page yet. Refer to my guides below to see if mods are updated.
+### My game is crashing any time I load a world/server, what's going on?
+* If you get a crash any time you load a world or join a server, remove the Chat Patches mod. If that fixes it, add the mod back and then delete the file "chatlog.json" file in *.minecraft\logs*. This will reset your chat history and fix the crash.
+### Will these mods affect my builds/redstone/farms?
+* In theory, no. I made this list with the goal of staying true to vanilla while also improving the experience. If you notice an issue with your world, slowly remove mods from your mods folder until you figure out which mod is causing an issue, and report the issue to the mod developers (or check if it has already been reported/fixed). It could also be a setting within the mod that should have been toggled, and was unintentionally impeding your experience. To avoid this, use my mod configs, linked above.
 
 # Mods
 * [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) - 1.20.6 ✔ 1.21.4 ✔ 1.21.5 ✔
   * **Quality-of-life mod**
   * Makes the second layer of a skin render in 3D
-* [Better Ping Display](https://modrinth.com/mod/better-ping-display-fabric) - 1.20.6 ✔ 1.21.4 ✔ 1.21.5 ❌
+* [Better Ping Display](https://modrinth.com/mod/better-ping-display-fabric) - 1.20.6 ✔ 1.21.4 ✔ 1.21.5 ✔
   * **Quality-of-life mod**
   * Changes player list (tab list) to show ping numbers instead of ping bars
 * [Better Statistics Screen](https://modrinth.com/mod/better-stats) - 1.20.6 ✔ 1.21.4 ✔ 1.21.5 ✔
@@ -43,7 +46,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=O7V7jBo5-6k&
 * [Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric) - 1.20.6 ✔ 1.21.4 ✔ 1.21.5 ✔
   * **Performance mod**
   * Improves the efficiency of chunk generation
-* [Continuity](https://modrinth.com/mod/continuity) - 1.20.6 ✔ 1.21.4 ✔ 1.21.5 ❌
+* [Continuity](https://modrinth.com/mod/continuity) - 1.20.6 ✔ 1.21.4 ✔ 1.21.5 ✔
   * **Quality-of-life mod**
   * Adds support for [connected textures](https://external-preview.redd.it/do0Hmo_W7FIGVul6Fu9t9XoAC1345cghxoeqHzw5ffU.png?width=1080&crop=smart&auto=webp&v=enabled&p=e&s=eb504037c91a7fc94e56254a90e1145d6e4ae560) (like OptiFine)
   * **Requires Fabric API**
@@ -94,9 +97,9 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=O7V7jBo5-6k&
 * [Lithium](https://modrinth.com/mod/lithium) - 1.20.6 ✔ 1.21.4 ✔ 1.21.5 ✔
   * **Performance mod**
   * Improves performance of features like mob AI, game physics, and more internal stuff without changing vanilla gameplay
-* [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) - 1.20.6 ✔ 1.21.4 ❌ 1.21.5 ❌
+* [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) - 1.20.6 ✔ **(not needed in 1.21+ anymore)**
   * **Performance mod**
-  * Fixes memory leaks
+  * Fixes memory leaks that can cause the game to lag/crash
 * [MiniHUD](https://github.com/sakura-ryoko/minihud/releases) - 1.20.6 ✔ 1.21.4 ✔ 1.21.5 ✔ ([1.20.6 and other old versions linked here](https://www.curseforge.com/minecraft/mc-mods/minihud))
   * **Quality-of-life mod**
   * Adds a mini F3 menu that you can add your own information to
