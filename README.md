@@ -12,7 +12,7 @@ Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=O7V7jBo5-6k&
 ### Why can't I download these all in one folder? Why do I have to download them all individually?
 * Not every mod is legally allowed to be distributed in modpacks. Some mods' license agreements say you can't include their mod in a modpack without explicit permission, and meticulously creating agreements really isn't worth it here. Plus, mods get outdated quickly, and, unlike in a standard modpack, it's important to keep all of these mods updated. So, I don't want to make a legally questionable ZIP file full of mods that will be outdated by the next day. Downloading each mod individually is the best way to have the best in-game experience.
 ### Will you make a Forge/NeoForge version?
-* No. This isn't a personal thing, I just have no interest.
+* No. This isn't a personal vendetta, I just have no interest.
 ### Is this mod updated for the newest version?
 * Some mods will work on new versions, but won't necessarily tell you on the download page yet. Refer to my guides below to see if mods are updated.
 ### My game is crashing any time I load a world/server, what's going on?
