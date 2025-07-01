@@ -4,7 +4,7 @@ This is the most up-to-date list of the mods that I personally use while playing
 
 If you see an ❌ next to a version (eg: "1.21.5 ❌"), that means that the mod is not updated for that version (as far as I know). If there is a ✔, it is updated. Sometimes, mods work for new versions but don't say it on the Modrinth page. If so, check my list to see if I tested it.
 
-Want my mod configs? [Here you go](https://drive.google.com/file/d/1amMFKcRSWMBUf3ZmyKpcby5JMFJUhL8b/view)
+Want my mod configs? [Here you go](https://drive.google.com/file/d/1amMFKcRSWMBUf3ZmyKpcby5JMFJUhL8b/view).
 
 ## You must install [Fabric](https://fabricmc.net) to run these mods
 
