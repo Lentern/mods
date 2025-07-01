@@ -8,7 +8,7 @@ Want my mod configs? [Here you go](https://drive.google.com/file/d/1amMFKcRSWMBU
 
 ## You must install [Fabric](https://fabricmc.net) to run these mods
 
-Don't know how? Watch [my tutorial](https://www.youtube.com/watch?v=O7V7jBo5-6k&t=26s).
+Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 
 # FAQ
 
