@@ -48,7 +48,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - **Quality-of-life mod**
   - Lets you see capes from OptiFine, LabyMod, and MinecraftCapes without installing those mods
   - **Requires Fabric API & Fabric Language Kotlin**
-- [Chat Patches](https://modrinth.com/mod/chatpatches) - 1.20.6 ✔ 1.21.5 ✔ 1.21.6 ✔ 1.21.7 ❌
+- [Chat Patches](https://modrinth.com/mod/chatpatches) - 1.20.6 ✔ 1.21.5 ✔ 1.21.6 ✔ 1.21.7 ✔
   - **Quality-of-life mod**
   - Allows you to view your cape from mods like OptiFine
   - **Requires Fabric API & YetAnotherConfigLib**
