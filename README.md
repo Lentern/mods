@@ -161,6 +161,9 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 
 ## Dependency Mods (you need these too)
 
+- [Architectury API](https://modrinth.com/mod/architectury-api) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔
+  - **Dependency mod**
+  - Assists in multiplatform mod usage
 - [Cloth Config API](https://modrinth.com/mod/cloth-config) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔
   - **Dependency mod**
   - Required for a lot of mods to be configured
@@ -180,10 +183,10 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 - [TCDCommons API](https://modrinth.com/mod/tcdcommons) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔
   - **Dependency mod**
   - An API for custom GUIs
-  - **Requires Fabric API**
+  - **Requires Fabric API & Architectury API**
 - [YetAnotherConfigLib](https://modrinth.com/mod/yacl) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔
   - **Dependency mod**
-  - Edit massive areas of terrain and make massive structures
+  - Similar to Cloth Config API, but for certain other mods
   - **Requires Fabric API**
 
 ## Different Types of Mods
