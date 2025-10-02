@@ -12,9 +12,9 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 
 # FAQ
 
-### Why can't I download these all in one folder? Why do I have to download them all individually?
+### Why can't I download these all in one modpack? Why do I have to download them all individually?
 
-- Not every mod is legally allowed to be distributed in modpacks. Some mods' license agreements say you can't include their mod in a modpack without explicit permission, and meticulously creating agreements really isn't worth it here. Plus, mods get outdated quickly, and, unlike in a standard modpack, it's important to keep all of these mods updated. So, I don't want to make a legally questionable ZIP file full of mods that will be outdated by the next day. Downloading each mod individually is the best way to have the best in-game experience.
+- Some mod developers don't allow the use of their mods in modpacks. Plus, mods get outdated quickly, and it's important to keep these mods updated when possible. So, I don't want to make a ZIP file full of mods that will be outdated by the next day. Downloading the newest version of each mod individually will create the best in-game experience for you.
 
 ### Will you make a Forge/NeoForge version?
 
@@ -22,15 +22,15 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 
 ### Is this mod updated for the newest version?
 
-- Some mods will work on new versions, but won't necessarily tell you on the download page yet. Refer to my guides below to see if mods are updated.
+- Some mods will work on new versions, but won't necessarily tell you on the download page yet. If a mod says on Modrinth that it isn't updated, refer to my notes below to see if it may still work.
 
 ### My game is crashing any time I load a world/server, what's going on?
 
-- If you get a crash any time you load a world or join a server, remove the Chat Patches mod. If that fixes it, add the mod back and then delete the file "chatlog.json" file in _.minecraft\logs_. This will reset your chat history and fix the crash.
+- If you get a crash any time you load a world or join a server, remove the Chat Patches mod. If that fixes it, add the mod back and then delete the file "chatlog.json" file in _.minecraft\logs_. This will reset your chat history and fix the crash. If this doesn't fix it, start removing mods, half of them at a time, until you find the culprit, and then get googling or leave a comment on my video about which mod it is.
 
 ### Will these mods affect my builds/redstone/farms?
 
-- In theory, no. I made this list with the goal of staying true to vanilla while also improving the experience. If you notice an issue with your world, slowly remove mods from your mods folder until you figure out which mod is causing an issue, and report the issue to the mod developers (or check if it has already been reported/fixed). It could also be a setting within the mod that should have been toggled, and was unintentionally impeding your experience. To avoid this, use my mod configs, linked above.
+- In theory, no. I made this list with the goal of staying true to vanilla while also improving the experience. If you notice an issue with your world, start removing mods, half of them at a time, until you figure out which mod is causing an issue, and report the issue to the mod developers (or check if it has already been reported or fixed in a newer version ). It could also be a setting within the mod that should have been toggled, and was unintentionally impeding your experience. To avoid this, use my mod configs, linked above.
 
 # Mods
 
@@ -194,7 +194,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 - Performance
   - Performance mods make your game run better and smoother like increasing your frame rate or making chunks load faster.
 - Quality-of-life
-  - Quality-of-life mods make the Minecraft experience better overall, like always displaying coordinates in game or copying screenshots to your computer's clipboard for easy access.
+  - Quality-of-life mods make the Minecraft experience better overall, with features like displaying coordinates in game or copying screenshots to your computer's clipboard for easy access.
 - Dependency
   - Dependency mods are mods that are really only used to make other mods work, like how most mods require Fabric API to run, even though the mod doesn't do anything to the game on its own.
 
