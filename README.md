@@ -86,7 +86,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - **Quality-of-life mod**
   - Adds in-game options to increase your game brightness above the normal limit, a.k.a fullbright
   - **Requires Cloth Config API & Fabric API**
-- [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ❌
+- [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔
   - **Performance mod**
   - Makes the game's FPS higher
 - [In-Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ❌
@@ -117,14 +117,14 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - **Quality-of-life mod**
   - Adds a mini F3 menu that you can add your own information to
   - **Requires MaLiLib**
-- [Mod Menu](https://modrinth.com/mod/modmenu) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ❌
+- [Mod Menu](https://modrinth.com/mod/modmenu) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔
   - **Quality-of-life mod**
   - Adds an in-game list of every loaded mod and allows you to configure the settings of mods
 - [Model Gap Fix](https://modrinth.com/mod/modelfix) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ❌
   - **Quality-of-life mod**
   - Fixes [the little pixel-wide gaps](https://bugs.mojang.com/browse/MC-73186) in items and blocks in the game
   - **Requires Fabric API**
-- [ModernFix](https://modrinth.com/mod/modernfix) - 1.20.6 ✔ 1.21.5 ❌ 1.21.8 ❌ 1.21.9 ❌
+- [ModernFix](https://modrinth.com/mod/modernfix) - 1.20.6 ✔ 1.21.5 ❌ 1.21.8 ✔ 1.21.9 ❌ ([1.21.8 download here](https://github.com/embeddedt/ModernFix/actions/runs/17010119732/artifacts/3780089811))
   - **Performance mod**
   - Fixes bugs and mproves the resource usaage and framerate of the game in many ways
 - [More Culling](https://modrinth.com/mod/moreculling) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔
