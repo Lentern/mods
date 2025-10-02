@@ -194,7 +194,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 - Performance
   - Performance mods make your game run better and smoother like increasing your frame rate or making chunks load faster.
 - Quality-of-life
-  - Quality-of-life mods make the Minecraft experience better overall, with features like displaying coordinates in game or copying screenshots to your computer's clipboard for easy access.
+  - Quality-of-life mods make the Minecraft experience better overall, with features like displaying coordinates or copying screenshots to your computer's clipboard for easy access.
 - Dependency
   - Dependency mods are mods that are really only used to make other mods work, like how most mods require Fabric API to run, even though the mod doesn't do anything to the game on its own.
 
