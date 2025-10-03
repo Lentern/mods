@@ -37,7 +37,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 - [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ❌
   - **Quality-of-life mod**
   - Makes the second layer of a skin render in 3D
-- [Better Ping Display](https://modrinth.com/mod/better-ping-display-fabric) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔ ([1.21.6+ download here](https://github.com/user-attachments/files/21384157/BetterPingDisplay-Fabric-1.21.6-1.1.2-SNAPSHOT.jar.zip)
+- [Better Ping Display](https://modrinth.com/mod/better-ping-display-fabric) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔ ([1.21.6+ download here](https://github.com/user-attachments/files/21384157/BetterPingDisplay-Fabric-1.21.6-1.1.2-SNAPSHOT.jar.zip))
   - **Quality-of-life mod**
   - Changes player list (tab list) to show ping numbers instead of ping bars
 - [Better Statistics Screen](https://modrinth.com/mod/better-stats) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ❌
