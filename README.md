@@ -37,7 +37,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 - [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ❌
   - **Quality-of-life mod**
   - Makes the second layer of a skin render in 3D
-- [Better Ping Display](https://modrinth.com/mod/better-ping-display-fabric) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ❌ 1.21.9 ❌
+- [Better Ping Display](https://modrinth.com/mod/better-ping-display-fabric) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔ ([1.21.6+ download here](https://github.com/user-attachments/files/21384157/BetterPingDisplay-Fabric-1.21.6-1.1.2-SNAPSHOT.jar.zip)
   - **Quality-of-life mod**
   - Changes player list (tab list) to show ping numbers instead of ping bars
 - [Better Statistics Screen](https://modrinth.com/mod/better-stats) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ❌
@@ -79,7 +79,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - **Performance mod**
   - Makes the game not render entites you can't see to improve FPS
   - **Requires Fabric API**
-- [FerriteCore](https://modrinth.com/mod/ferrite-core) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ❌
+- [FerriteCore](https://modrinth.com/mod/ferrite-core) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔
   - **Performance mod**
   - Reduces the game's memory usage
 - [Gamma Utils](https://modrinth.com/mod/gamma-utils) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔
@@ -134,11 +134,11 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 - [No Chat Reports](https://modrinth.com/mod/no-chat-reports) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔
   - **Quality-of-life mod**
   - Removes signatures from your chat messages to make them unreportable and disables in-game telemetry (data collection)
-- [Nvidum](https://modrinth.com/mod/nvidium) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ❌ ([unofficial 1.21.5+ version available here](https://github.com/drouarb/nvidium/releases)]
+- [Nvidum](https://modrinth.com/mod/nvidium) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ❌ ([unofficial 1.21.5+ version here](https://github.com/drouarb/nvidium/releases)]
   - **Performance mod**
   - Uses "NVIDIA OpenGL extensions" to drastically increase the performance of the game. **Only works on NVIDIA 16xx, 20xx series and higher GPUs, the mod will not do anything if you don't have the right GPU**
   - **Requires Sodium**
-- [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ❌
+- [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔
   - **Quality-of-life mod**
   - Reorganizes the Sodium mod's video settings menu
   - **Requires Sodium**
@@ -164,7 +164,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 - [Architectury API](https://modrinth.com/mod/architectury-api) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔
   - **Dependency mod**
   - Assists in multiplatform mod usage
-- [Cloth Config API](https://modrinth.com/mod/cloth-config) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ❌
+- [Cloth Config API](https://modrinth.com/mod/cloth-config) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔
   - **Dependency mod**
   - Required for a lot of mods to be configured
 - [Fabric API](https://modrinth.com/mod/fabric-api) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔
