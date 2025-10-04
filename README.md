@@ -16,11 +16,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 
 - Some mod developers don't allow the use of their mods in modpacks. Plus, mods get outdated quickly, and it's important to keep these mods updated when possible. So, I don't want to make a ZIP file full of mods that will be outdated by the next day. Downloading the newest version of each mod individually will create the best in-game experience for you.
 
-### Will you make a Forge/NeoForge version?
-
-- No. This isn't a personal vendetta, I just have no interest.
-
-### Is this mod updated for the newest version?
+### Is [mod name] updated for the newest version?
 
 - Some mods will work on new versions, but won't necessarily tell you on the download page yet. If a mod says on Modrinth that it isn't updated, refer to my notes below to see if it may still work.
 
@@ -40,7 +36,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 - [Better Ping Display](https://modrinth.com/mod/better-ping-display-fabric) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔ ([1.21.6+ download here](https://github.com/user-attachments/files/21384157/BetterPingDisplay-Fabric-1.21.6-1.1.2-SNAPSHOT.jar.zip))
   - **Quality-of-life mod**
   - Changes player list (tab list) to show ping numbers instead of ping bars
-- [Better Statistics Screen](https://modrinth.com/mod/better-stats) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ❌
+- [Better Statistics Screen](https://www.curseforge.com/minecraft/mc-mods/betterstats) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔
   - **Quality-of-life mod**
   - Makes the in-game statistics screen [beautiful](https://www.youtube.com/watch?v=AaC8J0G238c)
   - **Requires Fabric API & TCDCommons API**
@@ -180,7 +176,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 - [MaLiLib](https://modrinth.com/mod/malilib) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔
   - **Dependency mod**
   - Makes other mods by [the author of this mod](https://github.com/maruohon) work
-- [TCDCommons API](https://modrinth.com/mod/tcdcommons) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ❌
+- [TCDCommons API](https://www.curseforge.com/minecraft/mc-mods/tcdcommons) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔
   - **Dependency mod**
   - An API for custom GUIs
   - **Requires Fabric API & Architectury API**
