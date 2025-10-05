@@ -96,7 +96,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 - [kennytvs-epic-force-close-loading-screen-mod-for-fabric](https://modrinth.com/mod/forcecloseworldloadingscreen) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ❌
   - **Quality-of-life mod**
   - Closes the "Loading terrain" and resource pack switching screens faster
-- [Krypton](https://modrinth.com/mod/krypton) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ❌
+- [Krypton](https://modrinth.com/mod/krypton) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔
   - **Performance mod**
   - Improves performance internally in [magical ways](https://github.com/astei/krypton/wiki)
 - [Language Reload](https://modrinth.com/mod/language-reload) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ❌
