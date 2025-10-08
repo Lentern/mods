@@ -30,140 +30,140 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 
 # Mods
 
-- [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ❌
+- [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔ 1.21.10 ✔ ([1.21.9+ download here](https://github.com/tr7zw/3d-Skin-Layers/actions/runs/18324238553/artifacts/4207888587))
   - **Quality-of-life mod**
   - Makes the second layer of a skin render in 3D
-- [Better Ping Display](https://modrinth.com/mod/better-ping-display-fabric) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔ ([1.21.6+ download here](https://github.com/user-attachments/files/21384157/BetterPingDisplay-Fabric-1.21.6-1.1.2-SNAPSHOT.jar.zip))
+- [Better Ping Display](https://modrinth.com/mod/better-ping-display-fabric) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔ 1.21.10 ✔ ([1.21.6+ download here](https://github.com/user-attachments/files/21384157/BetterPingDisplay-Fabric-1.21.6-1.1.2-SNAPSHOT.jar.zip))
   - **Quality-of-life mod**
   - Changes player list (tab list) to show ping numbers instead of ping bars
-- [Better Statistics Screen](https://www.curseforge.com/minecraft/mc-mods/betterstats) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔
+- [Better Statistics Screen](https://www.curseforge.com/minecraft/mc-mods/betterstats) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔ 1.21.10 ✔
   - **Quality-of-life mod**
   - Makes the in-game statistics screen [beautiful](https://www.youtube.com/watch?v=AaC8J0G238c)
-  - **Requires Fabric API & TCDCommons API**
-- [Capes](https://modrinth.com/mod/capes) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔
+  - **Requires Architectury API, Fabric API & TCDCommons API**
+- [Capes](https://modrinth.com/mod/capes) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔ 1.21.10 ✔
   - **Quality-of-life mod**
   - Lets you see capes from OptiFine, LabyMod, and MinecraftCapes without installing those mods
   - **Requires Fabric API & Fabric Language Kotlin**
-- [Chat Patches](https://modrinth.com/mod/chatpatches) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ❌
+- [Chat Patches](https://modrinth.com/mod/chatpatches) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ❌ 1.21.10 ❌
   - **Quality-of-life mod**
   - Allows you to view your cape from mods like OptiFine
   - **Requires Fabric API & YetAnotherConfigLib**
-- [Concentration](https://modrinth.com/mod/concentration) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ❌
+- [Concentration](https://modrinth.com/mod/concentration) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ❌ 1.21.10 ❌ (alternative mod for 1.21.9+: [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders))
   - **Quality-of-life mod**
   - Makes your fullscreen window borderless
   - **Requires Fabric API**
-- [Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔
+- [Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔ 1.21.10 ✔
   - **Performance mod**
   - Improves the efficiency of chunk generation
-- [Continuity](https://modrinth.com/mod/continuity) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔
+- [Continuity](https://modrinth.com/mod/continuity) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ❌ 1.21.10 ❌
   - **Quality-of-life mod**
   - Adds support for [connected textures](https://external-preview.redd.it/do0Hmo_W7FIGVul6Fu9t9XoAC1345cghxoeqHzw5ffU.png?width=1080&crop=smart&auto=webp&v=enabled&p=e&s=eb504037c91a7fc94e56254a90e1145d6e4ae560) (like OptiFine)
   - **Requires Fabric API**
-- [Debugify](https://modrinth.com/mod/debugify) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ❌
+- [Debugify](https://modrinth.com/mod/debugify) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ❌ 1.21.10 ❌
   - **Quality-of-life mod**
   - Patches a bunch of unpatched bugs in vanilla Minecraft
   - **Requires Fabric API**
-- [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔
+- [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔ 1.21.10 ✔
   - **Performance mod**
   - Reduces your game's frame rate while you aren't focused on the window to save power and increase the performance of the rest of your computer
   - **Requires Fabric API**
-- [Enhanced Block Entities](https://modrinth.com/mod/ebe) - 1.20.6 ✔ 1.21.5 ❌ 1.21.8 ❌ 1.21.9 ❌
+- [Enhanced Block Entities](https://modrinth.com/mod/ebe) - 1.20.6 ✔ 1.21.5 ❌ 1.21.8 ❌ 1.21.9 ❌ 1.21.10 ❌
   - **Performance mod**
   - Changes blocks like chests and beds to use block models instead of entity models, which increases performance, but also allows for better custom textures and allows them to have smooth lighting
   - **Requires Fabric API**
-- [Entity Culling](https://modrinth.com/mod/entityculling) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ❌
+- [Entity Culling](https://modrinth.com/mod/entityculling) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔ 1.21.10 ✔
   - **Performance mod**
   - Makes the game not render entites you can't see to improve FPS
   - **Requires Fabric API**
-- [FerriteCore](https://modrinth.com/mod/ferrite-core) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔
+- [FerriteCore](https://modrinth.com/mod/ferrite-core) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔ 1.21.10 ✔
   - **Performance mod**
   - Reduces the game's memory usage
-- [Gamma Utils](https://modrinth.com/mod/gamma-utils) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔
+- [Gamma Utils](https://modrinth.com/mod/gamma-utils) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔ 1.21.10 ✔
   - **Quality-of-life mod**
   - Adds in-game options to increase your game brightness above the normal limit, a.k.a fullbright
   - **Requires Cloth Config API & Fabric API**
-- [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔
+- [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔ 1.21.10 ✔
   - **Performance mod**
   - Makes the game's FPS higher
-- [In-Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ❌
+- [In-Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ❌ 1.21.10 ❌
   - **Quality-of-life mod**
   - Allows you to switch between Minecraft account without restarting the game
   - **Requires Fabric API**
-- [Iris Shaders](https://modrinth.com/mod/iris) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔
+- [Iris Shaders](https://modrinth.com/mod/iris) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔ 1.21.10 ✔
   - **Quality-of-life mod**
   - Adds support for shader packs, just like OptiFine
   - **Requires Sodium**
-- [kennytvs-epic-force-close-loading-screen-mod-for-fabric](https://modrinth.com/mod/forcecloseworldloadingscreen) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ❌
+- [kennytvs-epic-force-close-loading-screen-mod-for-fabric](https://modrinth.com/mod/forcecloseworldloadingscreen) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ❌ 1.21.10 ❌
   - **Quality-of-life mod**
   - Closes the "Loading terrain" and resource pack switching screens faster
-- [Krypton](https://modrinth.com/mod/krypton) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔
+- [Krypton](https://modrinth.com/mod/krypton) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔ 1.21.10 ✔
   - **Performance mod**
   - Improves performance internally in [magical ways](https://github.com/astei/krypton/wiki)
-- [Language Reload](https://modrinth.com/mod/language-reload) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ❌
+- [Language Reload](https://modrinth.com/mod/language-reload) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ❌ 1.21.10 ❌
   - **Quality-of-life mod**
   - Adds a great-looking GUI for switching languages and makes switching them instantaneous
   - **Requires Fabric API**
-- [Lithium](https://modrinth.com/mod/lithium) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔
+- [Lithium](https://modrinth.com/mod/lithium) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔ 1.21.10 ✔
   - **Performance mod**
   - Improves performance of features like mob AI, game physics, and more internal stuff without changing vanilla gameplay
 - [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) - 1.20.6 ✔ **(not needed in 1.21+ anymore)**
   - **Performance mod**
   - Fixes memory leaks that can cause the game to lag/crash
-- [MiniHUD](https://modrinth.com/mod/minihud) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔
+- [MiniHUD](https://modrinth.com/mod/minihud) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔ 1.21.10 ✔
   - **Quality-of-life mod**
   - Adds a mini F3 menu that you can add your own information to
   - **Requires MaLiLib**
-- [Mod Menu](https://modrinth.com/mod/modmenu) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔
+- [Mod Menu](https://modrinth.com/mod/modmenu) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔ 1.21.10 ✔
   - **Quality-of-life mod**
   - Adds an in-game list of every loaded mod and allows you to configure the settings of mods
-- [Model Gap Fix](https://modrinth.com/mod/modelfix) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ❌
+- [Model Gap Fix](https://modrinth.com/mod/modelfix) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ❌ 1.21.10 ❌
   - **Quality-of-life mod**
   - Fixes [the little pixel-wide gaps](https://bugs.mojang.com/browse/MC-73186) in items and blocks in the game
   - **Requires Fabric API**
-- [ModernFix](https://modrinth.com/mod/modernfix) - 1.20.6 ✔ 1.21.5 ❌ 1.21.8 ✔ 1.21.9 ❌ ([1.21.8 download here](https://github.com/embeddedt/ModernFix/actions/runs/17010119732/artifacts/3780089811))
+- [ModernFix](https://modrinth.com/mod/modernfix) - 1.20.6 ✔ 1.21.5 ❌ 1.21.8 ✔ 1.21.9 ❌ 1.21.10 ❌ ([1.21.8 download here](https://github.com/embeddedt/ModernFix/actions/runs/17010119732/artifacts/3780089811))
   - **Performance mod**
   - Fixes bugs and mproves the resource usaage and framerate of the game in many ways
-- [More Culling](https://modrinth.com/mod/moreculling) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔
+- [More Culling](https://modrinth.com/mod/moreculling) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔ 1.21.10 ✔
   - **Performance mod**
   - Adds more culling to the Entity Culling mod
   - **FPS testing in my 1.21 mods video was done without this mod installed as it wasn't updated yet**
-- [No Chat Reports](https://modrinth.com/mod/no-chat-reports) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔
+- [No Chat Reports](https://modrinth.com/mod/no-chat-reports) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔ 1.21.10 ✔
   - **Quality-of-life mod**
   - Removes signatures from your chat messages to make them unreportable and disables in-game telemetry (data collection)
-- [Nvidum](https://modrinth.com/mod/nvidium) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ❌ ([unofficial 1.21.5+ version here](https://github.com/drouarb/nvidium/releases)]
+- [Nvidum](https://modrinth.com/mod/nvidium) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ❌ 1.21.10 ❌ ([unofficial 1.21.5+ version here](https://github.com/drouarb/nvidium/releases)]
   - **Performance mod**
   - Uses "NVIDIA OpenGL extensions" to drastically increase the performance of the game. **Only works on NVIDIA 16xx, 20xx series and higher GPUs, the mod will not do anything if you don't have the right GPU**
   - **Requires Sodium**
-- [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔
+- [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔ 1.21.10 ✔
   - **Quality-of-life mod**
   - Reorganizes the Sodium mod's video settings menu
   - **Requires Sodium**
-- [Replay Mod](https://www.replaymod.com/) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ❌
+- [Replay Mod](https://www.replaymod.com) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ❌ 1.21.10 ❌
   - **Quality-of-life mod**
   - Allows for viewing of past in-game Minecraft sessions from a spectator POV and rendering of videos from this POV (very simplified explanation)
-- [Screenshot to Clipboard](https://modrinth.com/mod/screenshot-to-clipboard) - 1.20.6 ✔ 1.21.5 ❌ 1.21.8 ❌ 1.21.9 ❌
+- [Screenshot to Clipboard](https://modrinth.com/mod/screenshot-to-clipboard) - 1.20.6 ✔ 1.21.5 ❌ 1.21.8 ❌ 1.21.9 ❌ 1.21.10 ❌
   - **Quality-of-life mod**
   - Copies screenshots you take to your computer's clipboard so you don't have to dig through your computer to find them every time
-- [Sodium](https://modrinth.com/mod/sodium) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔
+- [Sodium](https://modrinth.com/mod/sodium) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔ 1.21.10 ✔
   - **Performance mod**
   - Improves your game's FPS by an order of magnitude
-- [WorldEdit](https://modrinth.com/plugin/worldedit) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ❌
+- [WorldEdit](https://modrinth.com/plugin/worldedit) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔ 1.21.10 ✔
   - **Quality-of-life mod**
   - Edit massive areas of terrain and make massive structures
-- [Zoomify](https://modrinth.com/mod/zoomify) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔
+- [Zoomify](https://modrinth.com/mod/zoomify) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔ 1.21.10 ✔
   - **Quality-of-life mod**
   - Adds a customizable zoom key with versatile options
   - **Requires Fabric API, Fabric Language Kotlin & YetAnotherConfigLib**
 
 ## Dependency Mods (you need these too)
 
-- [Architectury API](https://modrinth.com/mod/architectury-api) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔
+- [Architectury API](https://modrinth.com/mod/architectury-api) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔ 1.21.10 ✔
   - **Dependency mod**
   - Assists in multiplatform mod usage
-- [Cloth Config API](https://modrinth.com/mod/cloth-config) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔
+- [Cloth Config API](https://modrinth.com/mod/cloth-config) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔ 1.21.10 ✔
   - **Dependency mod**
   - Required for a lot of mods to be configured
-- [Fabric API](https://modrinth.com/mod/fabric-api) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔
+- [Fabric API](https://modrinth.com/mod/fabric-api) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔ 1.21.10 ✔
   - **Dependency mod**
   - Necessary for almost all Fabric mods to work
 - [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) (works on any game version)
@@ -173,14 +173,14 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - **Dependency mod**
   - Makes Sodium compatible with the Fabric Rendering API, allowing a lot of previously incompatible mods to work with it
   - **Requires Fabric API & Sodium**
-- [MaLiLib](https://modrinth.com/mod/malilib) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔
+- [MaLiLib](https://modrinth.com/mod/malilib) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔ 1.21.10 ✔
   - **Dependency mod**
   - Makes other mods by [the author of this mod](https://github.com/maruohon) work
-- [TCDCommons API](https://www.curseforge.com/minecraft/mc-mods/tcdcommons) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔
+- [TCDCommons API](https://www.curseforge.com/minecraft/mc-mods/tcdcommons) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔ 1.21.10 ✔
   - **Dependency mod**
   - An API for custom GUIs
   - **Requires Fabric API & Architectury API**
-- [YetAnotherConfigLib](https://modrinth.com/mod/yacl) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔
+- [YetAnotherConfigLib](https://modrinth.com/mod/yacl) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.9 ✔ 1.21.10 ✔
   - **Dependency mod**
   - Similar to Cloth Config API, but for certain other mods
   - **Requires Fabric API**
