@@ -116,7 +116,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 - [Mod Menu](https://modrinth.com/mod/modmenu) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.10 ✔
   - **Quality-of-life mod**
   - Adds an in-game list of every loaded mod and allows you to configure the settings of mods
-- [Model Gap Fix](https://modrinth.com/mod/modelfix) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.10 ❌
+- [Model Gap Fix](https://modrinth.com/mod/modelfix) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.10 ✔
   - **Quality-of-life mod**
   - Fixes [the little pixel-wide gaps](https://bugs.mojang.com/browse/MC-73186) in items and blocks in the game
   - **Requires Fabric API**
