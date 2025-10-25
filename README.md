@@ -130,7 +130,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 - [No Chat Reports](https://modrinth.com/mod/no-chat-reports) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.10 ✔
   - **Quality-of-life mod**
   - Removes signatures from your chat messages to make them unreportable and disables in-game telemetry (data collection)
-- [Nvidum](https://modrinth.com/mod/nvidium) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.10 ❌ ([unofficial 1.21.5+ version here](https://github.com/drouarb/nvidium/releases)]
+- [Nvidum](https://modrinth.com/mod/nvidium) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.10 ✔ ([unofficial 1.21.5+ version here](https://github.com/drouarb/nvidium/releases)]
   - **Performance mod**
   - Uses "NVIDIA OpenGL extensions" to drastically increase the performance of the game. **Only works on NVIDIA 16xx, 20xx series and higher GPUs, the mod will not do anything if you don't have the right GPU**
   - **Requires Sodium**
@@ -138,7 +138,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - **Quality-of-life mod**
   - Reorganizes the Sodium mod's video settings menu
   - **Requires Sodium**
-- [Replay Mod](https://www.replaymod.com) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.10 ❌
+- [Replay Mod](https://www.replaymod.com) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.10 ✔
   - **Quality-of-life mod**
   - Allows for viewing of past in-game Minecraft sessions from a spectator POV and rendering of videos from this POV (very simplified explanation)
 - [Screenshot to Clipboard](https://modrinth.com/mod/screenshot-to-clipboard) - 1.20.6 ✔ 1.21.5 ❌ 1.21.8 ❌ 1.21.10 ❌
