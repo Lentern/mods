@@ -55,11 +55,11 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 - [Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.10 ✔
   - **Performance mod**
   - Improves the efficiency of chunk generation
-- [Continuity](https://modrinth.com/mod/continuity) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.10 ❌
+- [Continuity](https://modrinth.com/mod/continuity) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.10 ✔
   - **Quality-of-life mod**
   - Adds support for [connected textures](https://external-preview.redd.it/do0Hmo_W7FIGVul6Fu9t9XoAC1345cghxoeqHzw5ffU.png?width=1080&crop=smart&auto=webp&v=enabled&p=e&s=eb504037c91a7fc94e56254a90e1145d6e4ae560) (like OptiFine)
   - **Requires Fabric API**
-- [Debugify](https://modrinth.com/mod/debugify) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.10 ❌
+- [Debugify](https://modrinth.com/mod/debugify) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.10 ✔
   - **Quality-of-life mod**
   - Patches a bunch of unpatched bugs in vanilla Minecraft
   - **Requires Fabric API**
@@ -99,7 +99,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 - [Krypton](https://modrinth.com/mod/krypton) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.10 ✔
   - **Performance mod**
   - Improves performance internally in [magical ways](https://github.com/astei/krypton/wiki)
-- [Language Reload](https://modrinth.com/mod/language-reload) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.10 ❌
+- [Language Reload](https://modrinth.com/mod/language-reload) - 1.20.6 ✔ 1.21.5 ✔ 1.21.8 ✔ 1.21.10 ✔
   - **Quality-of-life mod**
   - Adds a great-looking GUI for switching languages and makes switching them instantaneous
   - **Requires Fabric API**
