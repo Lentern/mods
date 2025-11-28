@@ -90,7 +90,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 - [ScalableLux](https://modrinth.com/mod/scalablelux) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔
   - Improves the lighting system for faster chunk generation
   - **New addition to the mod list since the most recent video**
-- [Server Pinger Fixer](https://modrinth.com/mod/serverpingerfixer)
+- [Server Pinger Fixer](https://modrinth.com/mod/serverpingerfixer) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔
   - Uses more threads to ping servers making them ping much faster
   - **New addition to the mod list since the most recent video**
 - [Sodium](https://modrinth.com/mod/sodium) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔
