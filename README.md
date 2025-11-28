@@ -42,7 +42,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 - [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔
   - Reduces your game's frame rate while you aren't focused on the window to save power and increase the performance of the rest of your computer
   - **Requires Fabric API**
-- [Enhanced Block Entities](https://modrinth.com/mod/ebe) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ❌ 1.21.10 ❌
+- [Enhanced Block Entities](https://modrinth.com/mod/ebe) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ❌ 1.21.10 ❌ (use [Better Block Entities](https://modrinth.com/mod/better-block-entities) for 1.21.6+)
   - Changes blocks like chests and beds to use block models instead of entity models, which increases performance, but also allows for better custom textures and allows them to have smooth lighting
   - **Requires Fabric API**
 - [Fast IP Ping](https://modrinth.com/mod/fast-ip-ping) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔
