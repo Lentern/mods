@@ -21,11 +21,21 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 # Mods
 
 ## Performance Mods
+- [AsyncParticles](https://modrinth.com/mod/asyncparticles) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔
+  - Makes improvements to asynchronous rendering using multiple threads
+  - **New addition to the mod list since the most recent video**
 - [BadOptimizations](https://modrinth.com/mod/badoptimizations) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔
   - Adds improvements to lighting and color calculations
   - **New addition to the mod list since the most recent video**
-- [Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔
+- [Client Crafting](https://www.curseforge.com/minecraft/mc-mods/client-crafting) - 1.21.1 ✔ 1.21.4 ❌ 1.21.8 ❌ 1.21.10 ❌
+  - Moves crafting to the client so that crafting is more responsive on laggy servers
+  - **New addition to the mod list since the most recent video**
+- [Concurrent Chunk Management Engine (C2ME)](https://modrinth.com/mod/c2me-fabric) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔
   - Improves the efficiency of chunk generation
+- [Connectivity](https://www.curseforge.com/minecraft/mc-mods/connectivity) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ❌
+  - Fixes server connectivity issues to make multiplayer better
+  - **Requires Cupboard**
+  - **New addition to the mod list since the most recent video**
 - [Debugify](https://modrinth.com/mod/debugify) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔
   - Patches a bunch of unpatched bugs in vanilla Minecraft
   - **Requires Fabric API**
@@ -37,6 +47,13 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - **Requires Fabric API**
 - [Fast IP Ping](https://modrinth.com/mod/fast-ip-ping) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔
   - Makes servers on your server list that have literal IP addresses ping much faster
+  - **New addition to the mod list since the most recent video**
+- [fix GPU memory leak](https://www.curseforge.com/minecraft/mc-mods/fix-gpu-memory-leak) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔
+  - self explanatory
+  - **New addition to the mod list since the most recent video**
+- [Flerovium](https://modrinth.com/mod/flerovium) - 1.21.1 ✔ 1.21.4 ❌ 1.21.8 ❌ 1.21.10 ❌
+  - Improves rendering of items, particles, and entities
+  - **Requires Sodium**
   - **New addition to the mod list since the most recent video**
 - [Entity Culling](https://modrinth.com/mod/entityculling) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔
   - Makes the game not render entites you can't see to improve FPS
@@ -56,11 +73,17 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 - [ModernFix](https://modrinth.com/mod/modernfix) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ❌ ([1.21.8 download here](https://github.com/embeddedt/ModernFix/actions/runs/17010119732/artifacts/3780089811))
   - Fixes bugs and improves the resource usage and frame rate of the game in many ways
 - [More Culling](https://modrinth.com/mod/moreculling) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔
-  - Adds more culling to the Entity Culling mod
-  - **FPS testing in my 1.21 mods video was done without this mod installed as it wasn't updated yet**
+  - Adds more things to cull for the Entity Culling mod
+- [Noisium](https://modrinth.com/mod/noisium) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ ([1.21.7+ versions available here](https://modrinth.com/mod/noisiumforked))
+  - Makes small optimizations to world generation
+  - **New addition to the mod list since the most recent video**
 - [Nvidum](https://modrinth.com/mod/nvidium) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ ([unofficial 1.21.5+ version here](https://github.com/drouarb/nvidium/releases)]
   - Uses NVIDIA OpenGL extensions to drastically increase the performance of the game. **Only works on NVIDIA 16 series and higher GPUs, the mod will not do anything on other GPUs**
   - **Requires Sodium**
+- [Particle Core](https://modrinth.com/mod/particle-core) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ **(not needed in 1.21.9+)**
+  - Adds optimizations to particle rendering
+  - **Requires Fabric API, Fzzy Config, & Fabric Language Kotlin**
+  - **New addition to the mod list since the most recent video**
 - [ResourcePackCached](https://modrinth.com/mod/resourcepackcached) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔
   - Keeps server resource packs loaded in the background so you don't need to reload them every time you leave and join a server
   - **New addition to the mod list since the most recent video**
@@ -89,7 +112,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - Changes player list (tab list) to show ping numbers instead of ping bars
 - [Better Statistics Screen](https://modrinth.com/mod/better-stats) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔
   - Makes the in-game statistics screen [beautiful](https://www.youtube.com/watch?v=AaC8J0G238c)
-  - **Requires Architectury API, Fabric API & TCDCommons API**
+  - **Requires Architectury API, Fabric API, & TCDCommons API**
 - [Capes](https://modrinth.com/mod/capes) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔
   - Lets you see capes from OptiFine, LabyMod, and MinecraftCapes without installing those mods
   - **Requires Fabric API & Fabric Language Kotlin**
@@ -106,9 +129,17 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 - [Continuity](https://modrinth.com/mod/continuity) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔
   - Adds support for [connected textures](https://external-preview.redd.it/do0Hmo_W7FIGVul6Fu9t9XoAC1345cghxoeqHzw5ffU.png?width=1080&crop=smart&auto=webp&v=enabled&p=e&s=eb504037c91a7fc94e56254a90e1145d6e4ae560) (like OptiFine)
   - **Requires Fabric API**
+- [e4mc](https://modrinth.com/mod/e4mc) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ❌
+  - Allows opening of a server from your computer instantly to let friends join
+  - **Requires Fabric API**
+  - **New addition to the mod list since the most recent video**
 - [Gamma Utils](https://modrinth.com/mod/gamma-utils) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔
   - Adds in-game options to increase your game brightness above the normal limit, a.k.a fullbright
   - **Requires Cloth Config API & Fabric API**
+- [Highlight](https://modrinth.com/mod/highlight) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ❌
+  - Improves the look of block selection boxes for unusually shaped blocks
+  - **Requires Fabric API**
+  - **New addition to the mod list since the most recent video**
 - [In-Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ❌
   - Allows you to switch between Minecraft account without restarting the game
   - **Requires Fabric API**
@@ -141,6 +172,9 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 - [Server Pack Unlocker](https://modrinth.com/mod/server-pack-unlocker) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔
   - Allows you to disable and move server resource packs around like any other resource pack
   - **New addition to the mod list since the most recent video**
+- [Status Effect Bars](https://modrinth.com/mod/status-effect-bars) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔
+  - Shows how long your potion effects have left in the icons at the top of the screen
+  - **New addition to the mod list since the most recent video**
 - [ViaFabricPlus](https://modrinth.com/mod/viafabricplus) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔
   - Allows you to join servers running on any older version of Minecraft (including Bedrock) without having to change versions
   - **New addition to the mod list since the most recent video**
@@ -156,10 +190,13 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - Assists in multiplatform mod usage
 - [Cloth Config API](https://modrinth.com/mod/cloth-config) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔
   - Required for a lot of mods to be configured
+- [Cupboard](https://www.curseforge.com/minecraft/mc-mods/cupboard) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔
+  - Adds frameworks for other mods
+  - **New addition to the mod list since the most recent video**
 - [Fabric API](https://modrinth.com/mod/fabric-api) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔
   - Necessary for almost all Fabric mods to work
 - [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) (works on any game version)
-  - Adds support for Kotlin programming language for mods to use
+  - Adds support for the Kotlin programming language for mods to use
 - [Indium](https://modrinth.com/mod/indium) - 1.21.1 ✔ **(not necessary with Sodium 0.6 and above)**
   - Makes Sodium compatible with the Fabric Rendering API, allowing a lot of previously incompatible mods to work with it
   - **Requires Fabric API & Sodium**
@@ -168,6 +205,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 - [Searchables](https://modrinth.com/mod/searchables) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔
   - Adds backend searching and autocomplete functionality
   - **Requires Fabric API**
+  - **New addition to the mod list since the most recent video**
 - [TCDCommons API](https://modrinth.com/mod/tcdcommons) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔
   - An API for custom GUIs
   - **Requires Fabric API & Architectury API**
