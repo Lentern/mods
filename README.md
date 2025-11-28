@@ -70,7 +70,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - Improves performance of features like mob AI, game physics, and more internal stuff without changing vanilla gameplay
 - [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) - **(not needed in 1.21+ anymore)**
   - Fixes memory leaks that can cause the game to lag/crash
-- [ModernFix](https://modrinth.com/mod/modernfix) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ❌ ([1.21.8 download here](https://github.com/embeddedt/ModernFix/actions/runs/17010119732/artifacts/3780089811))
+- [ModernFix](https://modrinth.com/mod/modernfix) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ ([1.21.5+ downloads here](https://modrinth.com/mod/modernfix-mvus))
   - Fixes bugs and improves the resource usage and frame rate of the game in many ways
 - [More Culling](https://modrinth.com/mod/moreculling) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔
   - Adds more things to cull for the Entity Culling mod
