@@ -140,7 +140,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - Improves the look of block selection boxes for unusually shaped blocks
   - **Requires Fabric API**
   - **New addition to the mod list since the most recent video**
-- [In-Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ❌
+- [In-Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔
   - Allows you to switch between Minecraft account without restarting the game
   - **Requires Fabric API**
 - [Iris Shaders](https://modrinth.com/mod/iris) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔
