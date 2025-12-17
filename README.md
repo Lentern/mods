@@ -24,7 +24,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 - [AsyncParticles](https://modrinth.com/mod/asyncparticles) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ **(not needed in 1.21.11+)**
   - Makes improvements to asynchronous rendering using multiple threads
   - **New addition to the mod list since the most recent video**
-- [BadOptimizations](https://modrinth.com/mod/badoptimizations) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ❌
+- [BadOptimizations](https://modrinth.com/mod/badoptimizations) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔
   - Adds improvements to lighting and color calculations
   - **New addition to the mod list since the most recent video**
 - [Client Crafting](https://www.curseforge.com/minecraft/mc-mods/client-crafting) - 1.21.1 ✔ 1.21.4 ❌ 1.21.8 ❌ 1.21.10 ❌ 1.21.11 ❌
@@ -70,11 +70,11 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - Improves performance of features like mob AI, game physics, and more internal stuff without changing vanilla gameplay
 - [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) - **(not needed in 1.21+ anymore)**
   - Fixes memory leaks that can cause the game to lag/crash
-- [ModernFix](https://modrinth.com/mod/modernfix) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ❌ ([1.21.5+ downloads here](https://modrinth.com/mod/modernfix-mvus))
+- [ModernFix](https://modrinth.com/mod/modernfix) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔ ([1.21.5+ downloads here](https://modrinth.com/mod/modernfix-mvus))
   - Fixes bugs and improves the resource usage and frame rate of the game in many ways
 - [More Culling](https://modrinth.com/mod/moreculling) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔
   - Adds more things to cull for the Entity Culling mod
-- [Noisium](https://modrinth.com/mod/noisium) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ❌ ([1.21.7+ versions available here](https://modrinth.com/mod/noisiumforked))
+- [Noisium](https://modrinth.com/mod/noisium) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔ ([1.21.7+ versions available here](https://modrinth.com/mod/noisiumforked))
   - Makes small optimizations to world generation
   - **New addition to the mod list since the most recent video**
 - [Nvidum](https://modrinth.com/mod/nvidium) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ❌ ([unofficial 1.21.5+ version here](https://github.com/drouarb/nvidium/releases)]
@@ -110,7 +110,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - **New addition to the mod list since the most recent video**
 - [Better Ping Display](https://modrinth.com/mod/better-ping-display-fabric) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔ ([1.21.6+ download here](https://github.com/user-attachments/files/21384157/BetterPingDisplay-Fabric-1.21.6-1.1.2-SNAPSHOT.jar.zip))
   - Changes player list (tab list) to show ping numbers instead of ping bars
-- [Better Statistics Screen](https://modrinth.com/mod/better-stats) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ❌
+- [Better Statistics Screen](https://modrinth.com/mod/better-stats) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔
   - Makes the in-game statistics screen [beautiful](https://www.youtube.com/watch?v=AaC8J0G238c)
   - **Requires Architectury API, Fabric API, & TCDCommons API**
 - [Capes](https://modrinth.com/mod/capes) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔
@@ -119,7 +119,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 - [Chat Patches](https://modrinth.com/mod/chatpatches) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ❌
   - Allows you to view your cape from mods like OptiFine
   - **Requires Fabric API & YetAnotherConfigLib**
-- [Concentration](https://modrinth.com/mod/concentration) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ❌ 1.21.11 ❌ (alternative mod for 1.21.9+: [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders))
+- [Concentration](https://modrinth.com/mod/concentration) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ❌ (alternative mod for 1.21.9+: [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders))
   - Makes your fullscreen window borderless
   - **Requires Fabric API**
 - [Controlling](https://modrinth.com/mod/controlling) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ❌
@@ -159,10 +159,10 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - **Requires Fabric API**
 - [No Chat Reports](https://modrinth.com/mod/no-chat-reports) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ❌
   - Removes signatures from your chat messages to make them unreportable and disables in-game telemetry (data collection)
-- [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ❌
+- [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔
   - Reorganizes the Sodium mod's video settings menu
   - **Requires Sodium**
-- [Replay Mod](https://www.replaymod.com) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ❌
+- [Replay Mod](https://www.replaymod.com) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔
   - Allows for viewing of past in-game Minecraft sessions from a spectator POV and rendering of videos from this POV (very simplified explanation)
 - [Screenshot to Clipboard](https://modrinth.com/mod/screenshot-to-clipboard) - 1.21.1 ✔ 1.21.4 ✔ ❌ 1.21.8 ❌ 1.21.10 ❌ 1.21.11 ❌
   - Copies screenshots you take to your computer's clipboard so you don't have to dig through your computer to find them every time
@@ -178,7 +178,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 - [ViaFabricPlus](https://modrinth.com/mod/viafabricplus) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔
   - Allows you to join servers running on any older version of Minecraft (including Bedrock) without having to change versions
   - **New addition to the mod list since the most recent video**
-- [WorldEdit](https://modrinth.com/plugin/worldedit) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ❌
+- [WorldEdit](https://modrinth.com/plugin/worldedit) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔
   - Edit massive areas of terrain and make massive structures
 - [Zoomify](https://modrinth.com/mod/zoomify) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔
   - Adds a customizable zoom key with versatile options
