@@ -122,7 +122,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 - [Concentration](https://modrinth.com/mod/concentration) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ❌ (alternative mod for 1.21.9+: [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders))
   - Makes your fullscreen window borderless
   - **Requires Fabric API**
-- [Controlling](https://modrinth.com/mod/controlling) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ❌
+- [Controlling](https://modrinth.com/mod/controlling) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔
   - Adds a search bar to the controls menu
   - **Requires Fabric API & Searchables**
   - **New addition to the mod list since the most recent video**
@@ -140,7 +140,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - Improves the look of block selection boxes for unusually shaped blocks
   - **Requires Fabric API**
   - **New addition to the mod list since the most recent video**
-- [In-Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ❌
+- [In-Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔
   - Allows you to switch between Minecraft account without restarting the game
   - **Requires Fabric API**
 - [Iris Shaders](https://modrinth.com/mod/iris) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔
@@ -157,7 +157,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 - [Model Gap Fix](https://modrinth.com/mod/modelfix) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ **(not needed in 1.21.11+)**
   - Fixes [the little pixel-wide gaps](https://bugs.mojang.com/browse/MC-73186) in items and blocks in the game
   - **Requires Fabric API**
-- [No Chat Reports](https://modrinth.com/mod/no-chat-reports) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ❌
+- [No Chat Reports](https://modrinth.com/mod/no-chat-reports) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔
   - Removes signatures from your chat messages to make them unreportable and disables in-game telemetry (data collection)
 - [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔
   - Reorganizes the Sodium mod's video settings menu
@@ -172,7 +172,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 - [Server Pack Unlocker](https://modrinth.com/mod/server-pack-unlocker) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔
   - Allows you to disable and move server resource packs around like any other resource pack
   - **New addition to the mod list since the most recent video**
-- [Status Effect Bars](https://modrinth.com/mod/status-effect-bars) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ❌
+- [Status Effect Bars](https://modrinth.com/mod/status-effect-bars) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔
   - Shows how long your potion effects have left in the icons at the top of the screen
   - **New addition to the mod list since the most recent video**
 - [ViaFabricPlus](https://modrinth.com/mod/viafabricplus) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔
@@ -186,7 +186,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 
 ## Dependency Mods (you need these too)
 
-- [Architectury API](https://modrinth.com/mod/architectury-api) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ❌
+- [Architectury API](https://modrinth.com/mod/architectury-api) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔
   - Assists in multiplatform mod usage
 - [Cloth Config API](https://modrinth.com/mod/cloth-config) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔
   - Required for a lot of mods to be configured
@@ -202,11 +202,11 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - **Requires Fabric API & Sodium**
 - [MaLiLib](https://modrinth.com/mod/malilib) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔
   - Makes other mods by [the author of this mod](https://github.com/maruohon) work
-- [Searchables](https://modrinth.com/mod/searchables) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ❌
+- [Searchables](https://modrinth.com/mod/searchables) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔
   - Adds backend searching and autocomplete functionality
   - **Requires Fabric API**
   - **New addition to the mod list since the most recent video**
-- [TCDCommons API](https://modrinth.com/mod/tcdcommons) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ❌
+- [TCDCommons API](https://modrinth.com/mod/tcdcommons) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔
   - An API for custom GUIs
   - **Requires Fabric API & Architectury API**
 - [YetAnotherConfigLib](https://modrinth.com/mod/yacl) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔
