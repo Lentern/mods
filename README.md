@@ -32,7 +32,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - **New addition to the mod list since the most recent video**
 - [Concurrent Chunk Management Engine (C2ME)](https://modrinth.com/mod/c2me-fabric) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔
   - Improves the efficiency of chunk generation
-- [Connectivity](https://www.curseforge.com/minecraft/mc-mods/connectivity) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ❌ 1.21.11 ❌
+- [Connectivity](https://www.curseforge.com/minecraft/mc-mods/connectivity) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔
   - Fixes server connectivity issues to make multiplayer better
   - **Requires Cupboard**
   - **New addition to the mod list since the most recent video**
@@ -42,7 +42,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 - [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔
   - Reduces your game's frame rate while you aren't focused on the window to save power and increase the performance of the rest of your computer
   - **Requires Fabric API**
-- [Enhanced Block Entities](https://modrinth.com/mod/ebe) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ❌ 1.21.10 ❌ 1.21.11 ❌ (use [Better Block Entities](https://modrinth.com/mod/better-block-entities) for 1.21.6+)
+- [Enhanced Block Entities](https://modrinth.com/mod/ebe) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔ (use [Better Block Entities](https://modrinth.com/mod/better-block-entities) for 1.21.6+)
   - Changes blocks like chests and beds to use block models instead of entity models, which increases performance, but also allows for better custom textures and allows them to have smooth lighting
   - **Requires Fabric API**
 - [Entity Culling](https://modrinth.com/mod/entityculling) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔
@@ -105,7 +105,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 - [Auth Me](https://modrinth.com/mod/auth-me) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔
   - Allows for in-game account authentication to fix the dreaded "Invalid session" issue
   - **New addition to the mod list since the most recent video**
-- [Better Mount HUD](https://modrinth.com/mod/better-mount-hud) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ❌
+- [Better Mount HUD](https://modrinth.com/mod/better-mount-hud) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔
   - Prevents your HUD information from being hidden when riding a horse
   - **New addition to the mod list since the most recent video**
 - [Better Ping Display](https://modrinth.com/mod/better-ping-display-fabric) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔ ([1.21.6+ download here](https://github.com/user-attachments/files/21384157/BetterPingDisplay-Fabric-1.21.6-1.1.2-SNAPSHOT.jar.zip))
@@ -116,7 +116,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 - [Capes](https://modrinth.com/mod/capes) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔
   - Lets you see capes from OptiFine, LabyMod, and MinecraftCapes without installing those mods
   - **Requires Fabric API & Fabric Language Kotlin**
-- [Chat Patches](https://modrinth.com/mod/chatpatches) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ❌
+- [Chat Patches](https://modrinth.com/mod/chatpatches) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔
   - Allows you to view your cape from mods like OptiFine
   - **Requires Fabric API & YetAnotherConfigLib**
 - [Concentration](https://modrinth.com/mod/concentration) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ❌ (alternative mod for 1.21.9+: [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders))
@@ -126,7 +126,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - Adds a search bar to the controls menu
   - **Requires Fabric API & Searchables**
   - **New addition to the mod list since the most recent video**
-- [Continuity](https://modrinth.com/mod/continuity) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ❌
+- [Continuity](https://modrinth.com/mod/continuity) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔
   - Adds support for [connected textures](https://external-preview.redd.it/do0Hmo_W7FIGVul6Fu9t9XoAC1345cghxoeqHzw5ffU.png?width=1080&crop=smart&auto=webp&v=enabled&p=e&s=eb504037c91a7fc94e56254a90e1145d6e4ae560) (like OptiFine)
   - **Requires Fabric API**
 - [e4mc](https://modrinth.com/mod/e4mc) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔
@@ -190,7 +190,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - Assists in multiplatform mod usage
 - [Cloth Config API](https://modrinth.com/mod/cloth-config) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔
   - Required for a lot of mods to be configured
-- [Cupboard](https://www.curseforge.com/minecraft/mc-mods/cupboard) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ❌
+- [Cupboard](https://www.curseforge.com/minecraft/mc-mods/cupboard) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔
   - Adds frameworks for other mods
   - **New addition to the mod list since the most recent video**
 - [Fabric API](https://modrinth.com/mod/fabric-api) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔
