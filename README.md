@@ -95,6 +95,9 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - **New addition to the mod list since the most recent video**
 - [Sodium](https://modrinth.com/mod/sodium) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔
   - Improves your game's FPS by an order of magnitude
+- [Tekst](https://modrinth.com/mod/tekst) - 1.21.1 ✔ 1.21.4 ❌ 1.21.8 ❌ 1.21.10 ❌ 1.21.11 ❌
+  - Makes formatted text rendering faster
+  - **New addition to the mod list since the most recent video**
 - [Very Many Players](https://modrinth.com/mod/vmp-fabric) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔
   - Improves server performance at high player counts. Not super impactful on the client but does make small improvements
   - **New addition to the mod list since the most recent video**
