@@ -84,7 +84,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - Adds optimizations to particle rendering
   - **Requires Fabric API, Fzzy Config, & Fabric Language Kotlin**
   - **New addition to the mod list since the most recent video**
-- [ResourcePackCached](https://modrinth.com/mod/resourcepackcached) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ❌
+- [ResourcePackCached](https://modrinth.com/mod/resourcepackcached) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔
   - Keeps server resource packs loaded in the background so you don't need to reload them every time you leave and join a server
   - **New addition to the mod list since the most recent video**
 - [ScalableLux](https://modrinth.com/mod/scalablelux) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔
