@@ -64,7 +64,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - Makes the game's FPS higher
 - [kennytvs-epic-force-close-loading-screen-mod-for-fabric](https://modrinth.com/mod/forcecloseworldloadingscreen) - 1.21.1 ✔ 1.21.4 ✔ 1.21.8 ✔ 1.21.10 ✔ 1.21.11 ✔
   - Closes the "Loading terrain" and resource pack switching screens faster
-- [Krypton](https://modrinth.com/mod/krypton) - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ❌
+- [Krypton](https://modrinth.com/mod/krypton) - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔
   - Improves performance in the networking stack and reduces CPU usage
 - [Lithium](https://modrinth.com/mod/lithium) - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔
   - Improves performance of features like mob AI, game physics, and more internal stuff without changing vanilla gameplay
