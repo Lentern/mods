@@ -122,7 +122,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 - [Chat Patches](https://modrinth.com/mod/chatpatches) - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔
   - Allows you to view your cape from mods like OptiFine
   - **Requires Fabric API & YetAnotherConfigLib**
-- [Concentration](https://modrinth.com/mod/concentration) - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ❌ (alternative mod for 1.21.9+: [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders))
+- [Concentration](https://modrinth.com/mod/concentration) - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔ (alternative mod for 1.21.9+: [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders))
   - Makes your fullscreen window borderless
   - **Requires Fabric API**
 - [Controlling](https://modrinth.com/mod/controlling) - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔
