@@ -149,7 +149,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 - [Iris Shaders](https://modrinth.com/mod/iris) - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔
   - Adds support for shader packs, just like OptiFine
   - **Requires Sodium**
-- [Language Reload](https://modrinth.com/mod/language-reload) - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ❌
+- [Language Reload](https://modrinth.com/mod/language-reload) - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔
   - Adds a great-looking GUI for switching languages and makes switching them instantaneous
   - **Requires Fabric API**
 - [MiniHUD](https://modrinth.com/mod/minihud) - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔
