@@ -141,6 +141,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 - [Audio Engine Tweaks](https://modrinth.com/mod/audio-engine-tweaks)
   - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔ Fabric ✔ NeoForge ❌
   - Removes the 247 sounds at once limit and allows you to individually adjust the volume of every sound in the game
+  - **New addition to the mod list since the most recent video**
 - [Auth Me](https://modrinth.com/mod/auth-me)
   - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔ Fabric ✔ NeoForge ✔
   - Allows for in-game account authentication to fix the dreaded "Invalid session" issue
@@ -238,6 +239,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 - [Sodium Options API](https://modrinth.com/mod/sodium-options-api) **(not needed in 1.21.11+)**
   - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ❌ Fabric ✔ NeoForge ✔
   - Makes the Sodium video settings more organized
+  - **New addition to the mod list since the most recent video**
 - [Status Effect Bars](https://modrinth.com/mod/status-effect-bars)
   - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔ Fabric ✔ NeoForge ❌
   - Shows how long your potion effects have left in the icons at the top of the screen
