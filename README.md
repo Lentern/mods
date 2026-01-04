@@ -294,6 +294,10 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔ Fabric ✔ NeoForge (1.21.8+) ✔
   - An API for custom GUIs
   - **Requires Fabric API & Architectury API**
+- [Text Placeholder API](https://modrinth.com/mod/placeholder-api)
+  - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔ Fabric ✔ NeoForge ❌
+  - Allows for better formatting of text in built-in descriptions
+  - **New addition to the mod list since the most recent video**
 - [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
   - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔ Fabric ✔ NeoForge ✔
   - Similar to Cloth Config API, but for certain other mods
