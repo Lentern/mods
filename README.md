@@ -192,7 +192,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - Adds in-game options to increase your game brightness above the normal limit, a.k.a fullbright
   - **Requires Cloth Config API & Fabric API**
 - [Highlight](https://modrinth.com/mod/highlight)
-  - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔ Fabric ✔ NeoForge ✔
+  - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ❌ Fabric ✔ NeoForge ✔
   - Improves the look of block selection boxes for unusually shaped blocks
   - **Requires Fabric API**
   - **New addition to the mod list since the most recent video**
