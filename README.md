@@ -114,6 +114,10 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔ Fabric ✔ NeoForge ✔
   - Keeps server resource packs loaded in the background so you don't need to reload them every time you leave and join a server
   - **New addition to the mod list since the most recent video**
+- [Saturn](https://modrinth.com/mod/saturn)
+  - 1.21.1 ✔ 1.21.4 ❌ 1.21.10 ❌ 1.21.11 ❌ Fabric ❌ NeoForge ✔
+  - Reduces the game's memory usage
+  - **New addition to the mod list since the most recent video**
 - [ScalableLux](https://modrinth.com/mod/scalablelux)
   - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔ Fabric ✔ NeoForge ✔
   - Improves the lighting system for faster chunk generation
