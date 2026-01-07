@@ -41,10 +41,6 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - Fixes server connectivity issues to make multiplayer better
   - **Requires Cupboard**
   - **New addition to the mod list since the most recent video**
-- [Debugify](https://modrinth.com/mod/debugify)
-  - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ❌ Fabric ✔ NeoForge ❌
-  - Patches a bunch of unpatched bugs in vanilla Minecraft
-  - **Requires Fabric API**
 - [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
   - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔ Fabric ✔ NeoForge ✔
   - Reduces your game's frame rate while you aren't focused on the window to save power and increase the performance of the rest of your computer
@@ -181,6 +177,10 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 - [Continuity](https://modrinth.com/mod/continuity)
   - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔ Fabric ✔ NeoForge ✔
   - Adds support for [connected textures](https://external-preview.redd.it/do0Hmo_W7FIGVul6Fu9t9XoAC1345cghxoeqHzw5ffU.png?width=1080&crop=smart&auto=webp&v=enabled&p=e&s=eb504037c91a7fc94e56254a90e1145d6e4ae560) (like OptiFine)
+  - **Requires Fabric API**
+- [Debugify](https://modrinth.com/mod/debugify)
+  - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ❌ Fabric ✔ NeoForge ❌
+  - Patches a bunch of unpatched bugs in vanilla Minecraft
   - **Requires Fabric API**
 - [e4mc](https://modrinth.com/mod/e4mc)
   - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔ Fabric ✔ NeoForge ✔
