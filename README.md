@@ -97,7 +97,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔ Fabric ✔ NeoForge ✔
   - Makes small optimizations to world generation
   - **New addition to the mod list since the most recent video**
-- [Nvidum](https://modrinth.com/mod/nvidium) ([1.21.5+ versions available here](https://github.com/drouarb/nvidium/releases)]
+- [Nvidum](https://modrinth.com/mod/nvidium) ([1.21.4+ versions available here](https://github.com/drouarb/nvidium/releases)]
   - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔ Fabric ✔ NeoForge ❌
   - Uses NVIDIA OpenGL extensions to drastically increase the performance of the game. **Only works on NVIDIA 16 series and higher GPUs, the mod will not do anything on other GPUs**
   - **Requires Sodium**
