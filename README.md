@@ -21,6 +21,11 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 # Mods
 
 ## Performance Mods
+- [Achievements Optimizer](https://modrinth.com/mod/achievements-optimizer)
+  - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ Fabric ✔ NeoForge ✔
+  - Improves game performance related to advancements
+  - **Requires Forge Config API Port**
+  - **New addition to the mod list since the most recent video**
 - [AsyncParticles](https://modrinth.com/mod/asyncparticles) **(not needed in 1.21.11+)**
   - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ Fabric ✔ NeoForge ✔
   - Makes improvements to asynchronous rendering using multiple threads
@@ -106,6 +111,10 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - Adds optimizations to particle rendering
   - **Requires Fabric API, Fzzy Config, & Fabric Language Kotlin**
   - **New addition to the mod list since the most recent video**
+- [RailOptimization](https://modrinth.com/mod/railoptimization)
+  - 1.21.1 ✔ 1.21.4 ❌ 1.21.10 ❌ 1.21.11 ❌ Fabric ✔ NeoForge ❌
+  - Makes activator rails turn on and off faster
+  - **New addition to the mod list since the most recent video**
 - [ResourcePackCached](https://modrinth.com/mod/resourcepackcached)
   - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔ Fabric ✔ NeoForge ✔
   - Keeps server resource packs loaded in the background so you don't need to reload them every time you leave and join a server
@@ -179,7 +188,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - Adds support for [connected textures](https://external-preview.redd.it/do0Hmo_W7FIGVul6Fu9t9XoAC1345cghxoeqHzw5ffU.png?width=1080&crop=smart&auto=webp&v=enabled&p=e&s=eb504037c91a7fc94e56254a90e1145d6e4ae560) (like OptiFine)
   - **Requires Fabric API**
 - [Debugify](https://modrinth.com/mod/debugify)
-  - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ❌ Fabric ✔ NeoForge ❌
+  - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔ Fabric ✔ NeoForge ❌
   - Patches a bunch of unpatched bugs in vanilla Minecraft
   - **Requires Fabric API**
 - [e4mc](https://modrinth.com/mod/e4mc)
@@ -278,6 +287,10 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 - [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
   - Works on any game version, Fabric ✔ [NeoForge](https://modrinth.com/mod/kotlin-for-forge) ✔
   - Adds support for the Kotlin programming language for mods to use
+- [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)
+  - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔ Fabric ✔ NeoForge ✔
+  - Allows use of NeoForge config screens on other mod loaders
+  - **New addition to the mod list since the most recent video**
 - [Indium](https://modrinth.com/mod/indium) **(not necessary with Sodium 0.6 and above)**
   - 1.21.1 ✔ Fabric ✔ NeoForge N/A
   - Makes Sodium compatible with the Fabric Rendering API, allowing a lot of previously incompatible mods to work with it
