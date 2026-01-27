@@ -106,8 +106,8 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔ Fabric ✔ NeoForge ❌
   - Uses NVIDIA OpenGL extensions to drastically increase the performance of the game. **Only works on NVIDIA 16 series and higher GPUs, the mod will not do anything on other GPUs**
   - **Requires Sodium**
-- [Particle Core](https://modrinth.com/mod/particle-core) **(not needed in 1.21.9+)**
-  - 1.21.1 ✔ 1.21.4 ✔ Fabric ✔ NeoForge ✔
+- [Particle Core](https://modrinth.com/mod/particle-core)
+  - 1.21.1 ✔ 1.21.4 ✔  1.21.10 ✔ 1.21.11 ✔ Fabric ✔ NeoForge ✔
   - Adds optimizations to particle rendering
   - **Requires Fabric API, Fzzy Config, & Fabric Language Kotlin**
   - **New addition to the mod list since the most recent video**
