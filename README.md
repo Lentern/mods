@@ -207,7 +207,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - **Requires Fabric API**
   - **New addition to the mod list since the most recent video**
 - [In-Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher)
-  - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔ 26.1.2 ❌ Fabric ✔ NeoForge ✔
+  - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔ 26.1.2 ✔ Fabric ✔ NeoForge ✔
   - Allows you to switch between Minecraft account without restarting the game
   - **Requires Fabric API**
 - [Iris Shaders](https://modrinth.com/mod/iris)
