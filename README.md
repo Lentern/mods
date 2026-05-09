@@ -247,12 +247,17 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - Adds formatting controls to book writing
   - **New addition to the mod list since the most recent video**
 - [Server Pack Unlocker](https://modrinth.com/mod/server-pack-unlocker)
-  - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔ 26.1 ❌ Fabric ✔ NeoForge ❌
+  - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔ 26.1.2 ❌ Fabric ✔ NeoForge ❌
   - Allows you to disable and move server resource packs around like any other resource pack
   - **New addition to the mod list since the most recent video**
 - [Sodium Options API](https://modrinth.com/mod/sodium-options-api) **(not needed in 1.21.11+)**
   - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ❌ Fabric ✔ NeoForge ✔
   - Makes the Sodium video settings more organized
+  - **New addition to the mod list since the most recent video**
+- [Sodium Shadowy Path Blocks](https://modrinth.com/mod/sodium-shadowy-path-blocks)
+  - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔ 26.1.2 ✔ Fabric ✔ NeoForge ✔
+  - Restores the vanilla dirt path shading which is removed with Sodium
+  - **Requires Sodium**
   - **New addition to the mod list since the most recent video**
 - [Status Effect Bars](https://modrinth.com/mod/status-effect-bars)
   - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔ 26.1.2 ✔ Fabric ✔ NeoForge ❌
