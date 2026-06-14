@@ -1,4 +1,4 @@
-# The Best Performance (and Quality-of-Life) Mods for Minecraft 1.21
+# The Best Performance (and Quality-of-Life) Mods for Minecraft 26.x
 
 This is the most up-to-date list of the mods that I personally use while playing Minecraft. From tripling performance to revamping menus, these mods improve your gameplay experience without changing vanilla gameplay.
 
@@ -22,7 +22,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 
 ## Performance Mods
 - [Achievements Optimizer](https://modrinth.com/mod/achievements-optimizer)
-  - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔ 26.1.2 ❌ Fabric ✔ NeoForge ✔
+  - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔ 26.1.2 ✔ Fabric ✔ NeoForge ✔
   - Improves game performance related to advancements
   - **Requires Forge Config API Port**
   - **New addition to the mod list since the most recent video**
@@ -107,7 +107,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - Uses NVIDIA OpenGL extensions to drastically increase the performance of the game. **Only works on NVIDIA 16 series and higher GPUs, the mod will not do anything on other GPUs**
   - **Requires Sodium**
 - [Particle Core](https://modrinth.com/mod/particle-core)
-  - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔ 26.1.2 ❌ Fabric ✔ NeoForge ✔
+  - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔ 26.1.2 ✔ Fabric ✔ NeoForge ✔
   - Adds optimizations to particle rendering
   - **Requires Fabric API, Fzzy Config, & Fabric Language Kotlin**
   - **New addition to the mod list since the most recent video**
@@ -247,7 +247,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - Adds formatting controls to book writing
   - **New addition to the mod list since the most recent video**
 - [Server Pack Unlocker](https://modrinth.com/mod/server-pack-unlocker)
-  - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔ 26.1.2 ❌ Fabric ✔ NeoForge ❌
+  - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔ 26.1.2 ✔ Fabric ✔ NeoForge ❌
   - Allows you to disable and move server resource packs around like any other resource pack
   - **New addition to the mod list since the most recent video**
 - [Sodium Options API](https://modrinth.com/mod/sodium-options-api) **(not needed in 1.21.11+)**
