@@ -278,7 +278,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
 ## Dependency Mods (you need these too)
 
 - [Architectury API](https://modrinth.com/mod/architectury-api)
-  - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔ 26.1.2 ❌ Fabric ✔ NeoForge ✔
+  - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔ 26.1.2 ✔ Fabric ✔ NeoForge ✔
   - Assists in multiplatform mod usage
 - [Cloth Config API](https://modrinth.com/mod/cloth-config)
   - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔ 26.1.2 ✔ Fabric ✔ NeoForge ✔
