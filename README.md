@@ -297,6 +297,10 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔ 26.1.2 ✔ Fabric ✔ NeoForge ✔
   - Allows use of NeoForge config screens on other mod loaders
   - **New addition to the mod list since the most recent video**
+- [Fzzy Config](https://modrinth.com/mod/fzzy-config)
+- 1.21.1 ✔ 1.21.4 ✔ 1.21.10 ✔ 1.21.11 ✔ 26.1.2 ✔ Fabric ✔ NeoForge ✔
+- Another configuration API
+- **New addition to the mod list since the most recent video**
 - [Indium](https://modrinth.com/mod/indium) **(not necessary with Sodium 0.6 and above)**
   - 1.21.1 ✔ Fabric ✔ NeoForge N/A
   - Makes Sodium compatible with the Fabric Rendering API, allowing a lot of previously incompatible mods to work with it
