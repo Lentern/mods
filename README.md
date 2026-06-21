@@ -116,7 +116,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - Makes activator rails turn on and off faster
   - **New addition to the mod list since the most recent video**
 - [ResourcePackCached](https://modrinth.com/mod/resourcepackcached)
-  - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ✔ Fabric ✔ NeoForge ✔
+  - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ❌ Fabric ✔ NeoForge ✔
   - Keeps server resource packs loaded in the background so you don't need to reload them every time you leave and join a server
   - **New addition to the mod list since the most recent video**
 - [Saturn](https://modrinth.com/mod/saturn)
