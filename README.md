@@ -177,7 +177,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - Lets you see capes from OptiFine, LabyMod, and MinecraftCapes without installing those mods
   - **Requires Fabric API & Fabric Language Kotlin**
 - [Chat Patches](https://modrinth.com/mod/chatpatches)
-  - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ✔ Fabric ✔ NeoForge ❌
+  - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ❌ Fabric ✔ NeoForge ❌
   - Allows you to view your cape from mods like OptiFine
   - **Requires Fabric API & YetAnotherConfigLib**
 - [Concentration](https://modrinth.com/mod/concentration) **(alternative mod for 1.21.9+: [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders))**
