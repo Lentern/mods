@@ -216,7 +216,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - Allows you to switch between Minecraft account without restarting the game
   - **Requires Fabric API**
 - [Iris Shaders](https://modrinth.com/mod/iris)
-  - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ✔ Fabric ✔ NeoForge ✔ **(26.1 only on Fabric currently)**
+  - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ✔ Fabric ✔ NeoForge ✔
   - Adds support for shader packs, just like OptiFine
   - **Requires Sodium**
 - [Language Reload](https://modrinth.com/mod/language-reload)
