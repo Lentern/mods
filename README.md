@@ -194,7 +194,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - Adds support for [connected textures](https://external-preview.redd.it/do0Hmo_W7FIGVul6Fu9t9XoAC1345cghxoeqHzw5ffU.png?width=1080&crop=smart&auto=webp&v=enabled&p=e&s=eb504037c91a7fc94e56254a90e1145d6e4ae560) (like OptiFine)
   - **Requires Fabric API**
 - [Debugify](https://modrinth.com/mod/debugify)
-  - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ❌ Fabric ✔ NeoForge ❌
+  - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ✔ Fabric ✔ NeoForge ❌
   - Patches a bunch of unpatched bugs in vanilla Minecraft
   - **Requires Fabric API**
 - [e4mc](https://modrinth.com/mod/e4mc)
@@ -212,7 +212,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - **Requires Fabric API**
   - **New addition to the mod list since the most recent video**
 - [In-Game Account Switcher](https://modrinth.com/mod/in-game-account-switcher)
-  - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ❌ Fabric ✔ NeoForge ✔
+  - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ✔ Fabric ✔ NeoForge ✔
   - Allows you to switch between Minecraft account without restarting the game
   - **Requires Fabric API**
 - [Iris Shaders](https://modrinth.com/mod/iris)
@@ -235,7 +235,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - Fixes [the little pixel-wide gaps](https://bugs.mojang.com/browse/MC-73186) in items and blocks in the game
   - **Requires Fabric API**
 - [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
-  - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ❌ Fabric ✔ NeoForge ✔
+  - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ✔ Fabric ✔ NeoForge ✔
   - Removes signatures from your chat messages to make them unreportable and disables in-game telemetry (data collection)
 - [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
   - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ✔ Fabric ✔ NeoForge ✔ **(26.1 only on Fabric currently)**
