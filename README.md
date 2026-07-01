@@ -27,7 +27,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - **Requires Forge Config API Port**
   - **New addition to the mod list since the most recent video**
 - [AsyncParticles](https://modrinth.com/mod/asyncparticles) **(currently incompatible with Particle Core in 26.x+)**
-  - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ❌ Fabric ✔ NeoForge ✔
+  - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ✔ Fabric ✔ NeoForge ✔
   - Makes improvements to asynchronous rendering using multiple threads
   - **New addition to the mod list since the most recent video**
 - [BadOptimizations](https://modrinth.com/mod/badoptimizations)
@@ -177,7 +177,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - Lets you see capes from OptiFine, LabyMod, and MinecraftCapes without installing those mods
   - **Requires Fabric API & Fabric Language Kotlin**
 - [Chat Patches](https://modrinth.com/mod/chatpatches)
-  - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ❌ Fabric ✔ NeoForge ❌
+  - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ✔ Fabric ✔ NeoForge ❌
   - Allows you to view your cape from mods like OptiFine
   - **Requires Fabric API & YetAnotherConfigLib**
 - [Concentration](https://modrinth.com/mod/concentration) **(alternative mod for 1.21.9+: [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders))**
@@ -252,7 +252,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - Adds formatting controls to book writing
   - **New addition to the mod list since the most recent video**
 - [Server Pack Unlocker](https://modrinth.com/mod/server-pack-unlocker)
-  - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ❌ Fabric ✔ NeoForge ❌
+  - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ✔ Fabric ✔ NeoForge ❌
   - Allows you to disable and move server resource packs around like any other resource pack
   - **New addition to the mod list since the most recent video**
 - [Sodium Options API](https://modrinth.com/mod/sodium-options-api) **(not needed in 1.21.11+)**
