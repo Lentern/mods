@@ -26,7 +26,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - Improves game performance related to advancements
   - **Requires Forge Config API Port**
   - **New addition to the mod list since the most recent video**
-- [AsyncParticles](https://modrinth.com/mod/asyncparticles) **(currently incompatible with Particle Core in 26.x+)**
+- [AsyncParticles](https://modrinth.com/mod/asyncparticles)
   - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ✔ Fabric ✔ NeoForge ✔
   - Makes improvements to asynchronous rendering using multiple threads
   - **New addition to the mod list since the most recent video**
@@ -35,14 +35,14 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - Adds improvements to lighting and color calculations
   - **New addition to the mod list since the most recent video**
 - [Client Crafting](https://www.curseforge.com/minecraft/mc-mods/client-crafting)
-  - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ❌ Fabric ✔ NeoForge ✔
+  - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ✔ Fabric ✔ NeoForge ✔
   - Moves crafting to the client so that crafting is more responsive on laggy servers
   - **New addition to the mod list since the most recent video**
 - [Concurrent Chunk Management Engine (C2ME)](https://modrinth.com/mod/c2me-fabric)
   - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ✔ Fabric ✔ [NeoForge](https://modrinth.com/mod/c2me-neoforge) ✔
   - Improves the efficiency of chunk generation
 - [Connectivity](https://www.curseforge.com/minecraft/mc-mods/connectivity)
-  - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ❌ Fabric ✔ NeoForge ✔
+  - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ✔ Fabric ✔ NeoForge ✔
   - Fixes server connectivity issues to make multiplayer better
   - **Requires Cupboard**
   - **New addition to the mod list since the most recent video**
@@ -66,7 +66,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ✔ Fabric ✔ NeoForge ✔
   - Reduces the game's memory usage
 - [fix GPU memory leak](https://www.curseforge.com/minecraft/mc-mods/fix-gpu-memory-leak)
-  - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ❌ Fabric ✔ NeoForge ✔
+  - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ✔ Fabric ✔ NeoForge ✔
   - self explanatory
   - **New addition to the mod list since the most recent video**
 - [Flerovium](https://modrinth.com/mod/flerovium)
@@ -85,7 +85,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ✔ Fabric ✔ NeoForge ❌
   - Closes the "Loading terrain" and resource pack switching screens faster
 - [Krypton](https://modrinth.com/mod/krypton)
-  - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ❌ Fabric ✔ [NeoForge](https://modrinth.com/mod/krypton-fnp) ✔
+  - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ✔ Fabric ✔ [NeoForge](https://modrinth.com/mod/krypton-fnp) ✔
   - Improves performance in the networking stack and reduces CPU usage
 - [Lithium](https://modrinth.com/mod/lithium)
   - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ✔ Fabric ✔ NeoForge ✔
@@ -102,12 +102,12 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ✔ Fabric ✔ NeoForge ✔
   - Makes small optimizations to world generation
   - **New addition to the mod list since the most recent video**
-- [Nvidum](https://modrinth.com/mod/nvidium) ([1.21.4+ versions available here](https://github.com/drouarb/nvidium/releases)]
-  - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ❌ Fabric ✔ NeoForge ❌
+- [Nvidum](https://modrinth.com/mod/nvidium)
+  - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ✔ Fabric ✔ NeoForge ❌
   - Uses NVIDIA OpenGL extensions to drastically increase the performance of the game. **Only works on NVIDIA 16 series and higher GPUs, the mod will not do anything on other GPUs**
   - **Requires Sodium**
 - [Particle Core](https://modrinth.com/mod/particle-core)
-  - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ❌ 26.2 ❌ Fabric ✔ NeoForge ✔
+  - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ✔ Fabric ✔ NeoForge ✔
   - Adds optimizations to particle rendering
   - **Requires Fabric API, Fzzy Config, & Fabric Language Kotlin**
   - **New addition to the mod list since the most recent video**
@@ -116,7 +116,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - Makes activator rails turn on and off faster
   - **New addition to the mod list since the most recent video**
 - [ResourcePackCached](https://modrinth.com/mod/resourcepackcached)
-  - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ❌ Fabric ✔ NeoForge ✔
+  - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ✔ Fabric ✔ NeoForge ✔
   - Keeps server resource packs loaded in the background so you don't need to reload them every time you leave and join a server
   - **New addition to the mod list since the most recent video**
 - [Saturn](https://modrinth.com/mod/saturn)
@@ -207,7 +207,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - Adds in-game options to increase your game brightness above the normal limit, a.k.a fullbright
   - **Requires Cloth Config API & Fabric API**
 - [Highlight](https://modrinth.com/mod/highlight)
-  - 1.21.1 ✔ 1.21.11 ❌ 26.1.2 ❌ 26.2 ❌ Fabric ✔ NeoForge ✔
+  - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ✔ Fabric ✔ NeoForge ✔
   - Improves the look of block selection boxes for unusually shaped blocks
   - **Requires Fabric API**
   - **New addition to the mod list since the most recent video**
@@ -242,7 +242,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - Makes the Sodium video settings use all of your screen real estate
   - **Requires Sodium**
 - [Replay Mod](https://www.replaymod.com)
-  - 1.21.1 ✔ ✔ 1.21.11 ✔ 26.1.2 ❌ 26.2 ❌ Fabric ✔ NeoForge ❌
+  - 1.21.1 ✔ ✔ 1.21.11 ✔ 26.1.2 ❌ 26.2 ✔ Fabric ✔ NeoForge ❌
   - Allows for viewing of past in-game Minecraft sessions from a spectator POV and rendering of videos from this POV (very simplified explanation)
 - [Screenshot to Clipboard](https://modrinth.com/mod/screenshot-to-clipboard)
   - 1.21.1 ✔ 1.21.11 ❌ 26.1.2 ❌ 26.2 ❌ Fabric ✔ NeoForge ✔
