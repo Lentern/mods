@@ -51,7 +51,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - Reduces your game's frame rate while you aren't focused on the window to save power and increase the performance of the rest of your computer
   - **Requires Fabric API**
 - [Enhanced Block Entities](https://modrinth.com/mod/ebe) (use [Better Block Entities](https://modrinth.com/mod/better-block-entities) for 1.21.6+)
-  - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ✔ 26.3 ✔ Fabric ✔ NeoForge ❌
+  - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ✔ 26.3 ✔ Fabric ✔ NeoForge (some versions) ✔
   - Changes blocks like chests and beds to use block models instead of entity models, which increases performance, but also allows for better custom textures and allows them to have smooth lighting
   - **Requires Fabric API**
 - [Entity Culling](https://modrinth.com/mod/entityculling)
@@ -89,7 +89,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ✔ 26.3 ✔ Fabric ✔ NeoForge ❌
   - Closes the "Loading terrain" and resource pack switching screens faster
 - [Krypton](https://modrinth.com/mod/krypton)
-  - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ✔ 26.3 ❌ Fabric ✔ [NeoForge](https://modrinth.com/mod/krypton-fnp) ✔
+  - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ✔ 26.3 ✔ Fabric ✔ [NeoForge](https://modrinth.com/mod/krypton-fnp) ✔
   - Improves performance in the networking stack and reduces CPU usage
 - [Lithium](https://modrinth.com/mod/lithium)
   - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ✔ 26.3 ✔ Fabric ✔ NeoForge ✔
@@ -198,7 +198,7 @@ Don't know how? Watch [my tutorial](https://youtu.be/eF_uPVLCG-E?t=45).
   - Patches a bunch of unpatched bugs in vanilla Minecraft
   - **Requires Fabric API**
 - [e4mc](https://modrinth.com/mod/e4mc)
-  - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ✔ 26.3 ❌ Fabric ✔ NeoForge ✔
+  - 1.21.1 ✔ 1.21.11 ✔ 26.1.2 ✔ 26.2 ✔ 26.3 ✔ Fabric ✔ NeoForge ✔
   - Allows opening of a world from your computer instantly to let friends join
   - **Requires Fabric API**
   - **New addition to the mod list since the most recent video**
